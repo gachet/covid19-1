@@ -1,0 +1,11 @@
+data/.directory
+data/clean
+eda/.directory
+src/.directory
+.directory
+data/raw/coronavirus-covid19-tweets.zip
+data/raw/*
+eda/.ipynb_checkpoints/
+src/__pycache__/
+./.idea
+.idea/ 
