@@ -1,1393 +1,1393 @@
-['hola', 'sandrita', 'deseado', 'feliz', 'dia', 'madre', 'tarde', 'seguro', 'sabe', 'usted', 'juno', 'tomado', 'fotos']
-['germinal', 'mortal', 'volando', 'todavia', 'quedan', 'duluoz', 'salcedo']
-['amor', 'paciente', 'bondadoso', 'envidioso', 'orgulloso', 'egoista', 'guarda', 'rencor', 'corintios', 'buen', 'dia']
-['amanecer', 'respirando', 'puro', 'regalo', 'frente', 'mar', 'preparando', 'mente', 'meditacion']
-['buenas', 'noches', 'descansen']
-['alegra', 'muchisimo', 'gustara', 'igualmente', 'placer', 'saludarte', 'proxima', 'vengas', 'avisa', 'tiempo', 'vamos']
-['pobre', 'pasando', 'united', 'genio', 'quiere']
-['esaaa', 'mejor', 'suertes', 'disfruta', 'noche', 'disfruta', 'costa', 'rica', 'buena', 'vida', 'pura', 'vida']
-['años', 'sido', 'parte', 'junto', 'camisas', 'amarilla', 'gracias']
-['dios', 'cerrando', 'broche', 'oro', 'dios', 'siempre', 'dando', 'mejor', 'hijos', 'semana', 'mejor', 'pasada']
-['excelente', 'den', 'carro', 'molesto', 'igual', 'conozco', 'nadie', 'haga', 'uber', 'asi', 'bono']
-['buenas', 'noches', 'descansen']
-['horario', 'quedo', 'tan', 'perfecto', 'tan', 'buenas', 'eectativas', 'profes', 'quiero', 'entrar', 'clases', 'tan']
-['solo', 'mama', 'logra', 'primera', 'vez', 'cena', 'paz', 'familia', 'rodriguez', 'feliz', 'tener', 'madre']
-['vivo', 'metros', 'basilica', 'sali', 'ver', 'juego', 'polvora', 'dos', 'dias', 'bonito']
-['fijo', 'demasiado', 'hermoso']
-['viendo', 'looking', 'queers', 'folk', 'asi', 'doy', 'cuenta', 'nunca', 'grupo', 'mejores', 'amigos', 'gays', 'alguien', 'adopta']
-['recuerdo', 'escribia', 'hermana', 'motivara', 'hiciera', 'sentir', 'util', 'dios', 'dio', 'mejor', 'hermana']
-['buenos', 'dias', 'inicio', 'mes', 'darlo', 'aunque', 'menos', 'bueno', 'feliz', 'inicio', 'semana']
-['termine', 'hora', 'costa', 'rica', 'hizo', 'super', 'adictivo', 'gusto', 'encanto']
-['fiesta', 'bananera', 'dia', 'cerveza', 'semana', 'ultimo', 'dia', 'eeriencia', 'asi', 'quieren', 'vaya', 'parranda']
-['estupida', 'par', 'esperando', 'saquen', 'desgraciado', 'trailer', 'resident', 'evil', 'vamoooos']
-['agua', 'hielo', 'regularmente', 'mantenga', 'fresca', 'poquito', 'azucar', 'semana', 'durado', 'mes']
-['encanta', 'hacerte', 'feliz']
-['totalmente', 'fisico', 'deja', 'atras', 'persona', 'atractiva', 'incluyendo', 'propuestas', 'cerebro']
-['hoy', 'participando', 'mujeres', 'alegra', 'preguntas', 'propias', 'hacer', 'preguntas', 'pareja']
-['delicioso', 'san', 'rafael']
-['llego', 'tarde', 'huge', 'fan', 'empece', 'creci', 'sube', 'cae', 'serie', 'temporadas', 'favoritas']
-['hola', 'queria', 'agradecer', 'personal', 'starbucks', 'sabana', 'guardar', 'cartera', 'olvidada', 'mejores']
-['mañana', 'voy', 'clase', 'tarde', 'yoga', 'yoga', 'aerobico']
-['triste']
-['chiquilla', 'tirar', 'piedras', 'techo', 'vecino', 'cristal', 'feliz', 'noche', 'pili']
-['años', 'acompañarnos', 'edad', 'crecido', 'mano', 'ustedes', 'mil', 'gracias', 'atte', 'ale']
-['cosas', 'debemos', 'usar', 'simplificar', 'vida', 'cerebro', 'sonrisa', 'eliminar', 'interesa', 'simple']
-['gracias', 'prometo', 'siguientes', 'años', 'titularme', 'aunque', 'costado', 'llegar', 'hoy']
-['consume', 'produce', 'saludos', 'jason', 'disfrute', 'super', 'viaje']
-['buena', 'idea', 'aunque', 'dinamica', 'edad', 'distinta']
-['bienvenida', 'juegos', 'mentales']
-['gracias', 'sigan', 'adelante', 'maravillosos', 'trabajos', 'quiza', 'algun', 'dia', 'tributo', 'soda', 'stereo']
-['siempre', 'aprende', 'nuevo']
-['mañana', 'saber', 'gran', 'amor', 'puesto', 'confianza', 'salmos', 'buen', 'dia']
-['listo', 'puente', 'peatonal', 'casa', 'dejar', 'jugarme', 'vida', 'voy', 'auto', 'cajero']
-['asi', 'ser', 'alegro', 'solo', 'barca', 'pierde', 'influya', 'madrid', 'cmo', 'liga', 'ayer', 'tuani']
-['rico', 'dormir']
-['delicia', 'cerca', 'fijo', 'llego', 'tupper', 'separan', 'pozol']
-['corazon', 'desperto', 'pasos', 'siguen', 'dicta', 'voz', 'sueño', 'siempre', 'ligado', 'amor']
-['mama', 'maquillo', 'super', 'chiva', 'grave', 'snap']
-['excelente', 'eectativas', 'supuesto', 'voy', 'pendiente', 'verla', 'pronto', 'posible', 'gracias']
-['cafetear', 'sola', 'traguito', 'asi', 'veces', 'lindo', 'darse', 'tiempo']
-['dias', 'hoy', 'agradezco', 'tener', 'carro', 'andar', 'higado', 'hinchado', 'saber', 'mejor', 'ando', 'uber']
-['chema', 'oficina', 'deseando', 'vuelva', 'oficina', 'dirigir', 'empresa', 'mejor']
-['sepas', 'hacer', 'hagarra', 'celular', 'audifonos', 'despeja', 'mente']
-['sos', 'james', 'favorito']
-['mezclan', 'realidad', 'mundos', 'paralelos', 'diferente', 'peliculas', 'marvel']
-['acabo', 'recordar', 'existen', 'queques', 'navideños', 'casi', 'diciembre', 'verlos', 'lado']
-['vas', 'ser', 'gran', 'comunicador']
-['princesa', 'hermosa', 'creciendo', 'rapido', 'amo', 'pequeña', 'tia']
-['voy', 'ver', 'armaggedon', 'cinta', 'rajado', 'gracias', 'persona', 'recomendo']
-['teja', 'cabron', 'programa', 'agradable', 'vida', 'real', 'doble', 'buena', 'gente']
-['bonito', 'tener', 'orden', 'vida', 'solamente', 'aprender', 'acostumbrarse', 'poner', 'cosas', 'personas', 'lugar']
-['gracias', 'hoy', 'feliz', 'descansa', 'sueñes', 'bonito', 'quiero']
-['buenas', 'noches', 'chitos', 'chitas', 'tl', 'sueñen', 'bonito', 'asi']
-['salga', 'examenes', 'voy', 'meter', 'gimnasio', 'voy', 'tener', 'cuerpo', 'lindo', 'ahi', 'voy', 'ser', 'feliz']
-['buenos', 'dias', 'ultimo', 'dia', 'laboral', 'voy', 'vacaciones', 'semana', 'exitos', 'vidas', 'felices']
-['tan', 'mala', 'muuuchos', 'elementos', 'primeras', 'dos', 'peliculas', 'mejor', 'agregan', 'nuevos']
-['ahora', 'trabajo', 'tiempo', 'completo', 'siento', 'tan', 'merecedora', 'viernes', 'derecho', 'cantar']
-['maniaticas', 'divertidas']
-['mejor', 'espero', 'emocion', 'disco', 'nuevo', 'deseo', 'tener', 'tiempo', 'digerir', 'discografia', 'morir']
-['nuevo', 'quiero', 'dedicarme', 'solo', 'ser', 'groomer', 'pasear', 'perros', 'saben', 'felicidad', 'trae']
-['respuesta', 'correcta']
-['apoyen', 'network', 'futuro', 'hare', 'videos', 'directos', 'ahi']
-['vez', 'pasada', 'hice', 'amiga', 'baño', 'club', 'llamaba', 'naomi', 'naomi', 'presente']
-['pones', 'buscar', 'defectos', 'buena', 'iniciativa', 'redes', 'quiero', 'haces', 'falta']
-['cuidado', 'enamora', 'suegra', 'vieras', 'señora', 'mano', 'cocina', 'dicen', 'panza', 'llena', 'corazon']
-['niegues', 'señor', 'misericordia', 'siempre', 'protejan', 'amor', 'verdad', 'salmos', 'buen', 'dia']
-['siento', 'ignorada', 'costumbre', 'bueno', 'estudiante', 'universitaria', 'vez', 'lamentarme', 'puedo', 'aprovechar', 'tiempo']
-['prendieron', 'fuego', 'unica', 'sabia', 'cantaron', 'haciendo', 'fila', 'baño', 'gusto', 'conocerte']
-['podria', 'decir', 'ex', 'demasiado', 'feliz', 'hizo', 'crecer', 'persona']
-['perder', 'esperanza', 'digamos', 'eectativas', 'alguien', 'dio', 'tome', 'gordo']
-['escena', 'documentales', 'respetados', 'naturaleza', 'planet', 'earth', 'dudo', 'montado']
-['hoy', 'buen', 'diaaaa']
-['sentirse', 'mal', 'querer', 'creo', 'bueno', 'saber', 'quiere']
-['hagan', 'haganlo', 'amor', 'corintios', 'buen', 'dia']
-['buenos', 'dias', 'pases', 'buen', 'dia']
-['canciones', 'juanes', 'julieta', 'venegas', 'siempre', 'hacen', 'feliz']
-['obvio', 'quiero', 'llegar', 'verte', 'asi', 'vez', 'organiza', 'ixma']
-['buscarte', 'agarrado', 'calle', 'venias', 'hacer', 'concierto', 'bueno', 'pues', 'encontre', 'final']
-['buenas', 'noches', 'descanse']
-['tan', 'lindo', 'amigo', 'espero', 'jueguen', 'rencor', 'hacen', 'imparables', 'resentidos']
-['solo', 'quedan', 'casi', 'veo', 'luz']
-['bonito', 'demasiado', 'extraño', 'sufriendo', 'alturas', 'seleeeeee']
-['año', 'ser', 'diferente', 'ser', 'diferente']
-['mami', 'bajar', 'velocidad', 'mejor', 'quite']
-['papa', 'emocionado', 'lagrimas', 'tenores', 'conciertos', 'quedan', 'alma', 'siempre']
-['gusto', 'temporada', 'buena', 'miedo', 'corta', 'ansiosa', 'temporada']
-['pulsearla', 'bastante', 'intentado', 'par', 'veces', 'buena', 'foto']
-['encanta', 'resaltes', 'moda', 'ser', 'superficial', 'sino', 'siendo', 'excelente', 'critico', 'costa', 'rica']
-['correcto', 'pura', 'arte', 'mejor', 'pudiste', 'describir', 'bendiciones']
-['bonito', 'anunciar', 'excedentes', 'asociacion', 'solidarista', 'depositados']
-['traen', 'pasas', 'puro', 'sabor']
-['hizo', 'tiempazo', 'ruta', 'desafiante', 'campeona']
-['calma', 'pueblo', 'bien', 'solo', 'vaya', 'presente', 'haga', 'fucking', 'examen', 'tranquilo']
-['gusta', 'rumbo', 'vida', 'llevando', 'siento', 'tranquila', 'contenta', 'conmigo', 'misma']
-['ladilla', 'chevere']
-['ahora', 'oficial', 'trabajo', 'chiva', 'podia', 'pedir']
-['consiga', 'empresa', 'concierto', 'sorpresa', 'asi']
-['gusta', 'dar', 'buenos', 'dias', 'buenos', 'diaaaas']
-['alegro', 'milord', 'feliz', 'regreso', 'casa', 'averno']
-['lindo', 'gracias', 'dios', 'trabajo']
-['perdon', 'ser', 'peor', 'prometo', 'darle', 'amor', 'comprension', 'ternura', 'apenas', 'termine', 'semestre']
-['justo', 'necesario', 'hice', 'siento', 'mejor']
-['pues', 'hecho', 'funciono', 'siento', 'tranquila', 'despues']
-['buenos', 'dias', 'exito', 'maratonica', 'sume', 'van', 'llevar', 'alegria', 'personas', 'sufriendo']
-['cansado', 'saber', 'hoy', 'ayudo', 'hace', 'feliz']
-['siento', 'identificada', 'tweet', 'cuenta', 'mejor', 'amiga', 'aveces', 'cosas']
-['claros', 'ticos', 'solidarios', 'necesita']
-['buena', 'fiesta', 'pegaba']
-['hoy', 'hice', 'gol', 'vida', 'perdimos', 'hice', 'gol', 'vida']
-['gustan', 'hecho']
-['hoy', 'nuevo', 'campeon', 'pase', 'campeon', 'pierda']
-['realidad', 'amargada', 'maldita', 'juega', 'viva', 'parece', 'prometo']
-['excelente', 'grande']
-['genial', 'iniciativa', 'puede', 'ayudar']
-['amigo', 'secreto', 'hoy', 'trajo', 'delicioso', 'arroz', 'leche']
-['sigan', 'juntos', 'tiempo']
-['momentos', 'montamos', 'canal', 're', 'pichudo']
-['mediodia', 'proxima', 'dude', 'aunque', 'vea', 'serio', 'carajo', 'buena', 'nota']
-['tradicion', 'supuesto', 'leche', 'almendras', 'rica']
-['verano', 'grupo', 'compitas']
-['mejor', 'amiga', 'secreta', 'vida', 'quiero', 'regalo', 'voy', 'dar']
-['esperando', 'buen', 'noche']
-['fijo', 'gusta', 'hago', 'hice', 'episodio', 'vii', 'cine', 'veces']
-['podria', 'pasar', 'dia', 'entero', 'viendo', 'solo', 'mejengas']
-['comemos', 'crepas', 'bebida', 'hoy', 'feria', 'navideña', 'esparza', 'pone']
-['buen', 'dia', 'seguimos']
-['diay', 'bonito', 'comentarios']
-['llena', 'demasiado', 'ver', 'gente', 'intencion', 'ayudar', 'moviendose', 'lindo']
-['sopa', 'negra', 'opcion', 'plato', 'fuerte', 'soda', 'dios', 'sabe', 'reconfortarme', 'despues', 'noticias', 'agobiantes']
-['gente', 'buena', 'pasan', 'cosas', 'buenas', 'resto', 'veces', 'pasan', 'cosas', 'buenas']
-['nunca', 'ganado', 'chuzo', 'probar', 'nueva', 'pizza', 'tarde', 'liberiana', 'crown', 'pizza']
-['muerte', 'andaba', 'parranda']
-['ufff', 'cosa', 'deliciosa', 'desorden', 'patas', 'ser', 'feliz', 'fexito']
-['chineada', 'almuerzo', 'trabajo', 'gracias']
-['acaban', 'confundir', 'estudiante', 'universitario', 'mejor', 'buenos', 'dias']
-['necesito', 'gato', 'vida', 'asi', 'convencer', 'papas']
-['lleguenle', 'divertido', 'gusto', 'cata']
-['voy', 'pedir', 'suba', 'ponderado']
-['queria', 'salirme', 'aguas', 'termales', 'mañana', 'voy', 'monteverde', 'ver', 'tal']
-['dicha', 'vale', 'mundo', 'diga']
-['diga', 'posible', 'aun']
-['ganadora', 'hablamos', 'mensaje', 'participar']
-['hoy', 'dia', 'lindo', 'chinearon', 'amigos', 'amo']
-['pues', 'pienselo', 'ultimo', 'esfuerzo', 'ahorita', 'llegan', 'vacaciones']
-['siento', 'tan', 'feliz', 'semana', 'cerro', 'bien']
-['pues', 'buen', 'momento', 'hacerlo']
-['acabo', 'tener', 'idea', 'formidable', 'involucra', 'mande', 'correo']
-['daria', 'poder', 'abrazarte']
-['haber', 'enamorada', 'canta', 'llamandolo', 'hora', 'diario', 'hace']
-['tenes', 'dias', 'actividades', 'muchas', 'peliculas', 'disponibles', 'asistir']
-['dice', 'llorar', 'locura', 'opinas', 'decis', 'entonces', 'cantar']
-['cafe', 'sono', 'sentados', 'meneamos']
-['bueno', 'verla', 'anoche', 'pases', 'excelente', 'dia']
-['ganado', 'lugar', 'especial']
-['amaneci', 'lleno', 'comilona', 'anoche', 'siempre', 'campo', 'desayunar']
-['buenos', 'dias', 'gripe', 'hoy', 'disfruta', 'dia']
-['hace', 'sentir', 'tan', 'bien', 'ver', 'sentir', 'absolutamente']
-['mejor', 'serie', 'mundo']
-['buena', 'vibra', 'transmite']
-['adquiri', 'sitio', 'abarcara', 'paises', 'momento', 'parecido', 'excelente', 'herramienta']
-['solo', 'digital', 'entonces', 'perfecto', 'verdad', 'muchisimas', 'gracias', 'abrazo', 'costa', 'rica', 'pura', 'vida']
-['estudiante', 'periodismo', 'encanta', 'ambito', 'deportivo', 'admiro', 'sueño', 'conocerlos', 'porfaa']
-['salga', 'bonito']
-['exitos', 'buena', 'vibra', 'recital']
-['mama', 'dice', 'vaya', 'cole', 'serio', 'amo', 'ir']
-['hola', 'dijo', 'bien', 'fuertes', 'aguaceros', 'viento', 'control', 'preguntar']
-['excelente', 'atentos', 'comentarios']
-['bien', 'suena', 'nordica', 'hablando', 'argento']
-['exijo', 'beso', 'carl', 'enid', 'lindoooooo']
-['dicha', 'zarcero', 'calle']
-['obvio', 'importante', 'preguntar']
-['pueblo', 'anda', 'patrulla', 'recolectando', 'alimentos', 'perecederos', 'casa', 'donamos']
-['dejo', 'congelado', 'amo', 'ratings']
-['segundo', 'cuarto', 'golden', 'lleva', 'puntos']
-['ok', 'vea', 'lado', 'positivo', 'motivo', 'hacerle', 'drama', 'resto', 'vida']
-['voz', 'debe', 'tener', 'dicha', 'gaby', 'regresara', 'pata']
-['chiva', 'pasar', 'debajo', 'puente', 'platina', 'siempre', 'querido', 'serio']
-['pueblo', 'bonito', 'españa', 'enhorabuena', 'solo', 'rioja', 'solo', 'bueno']
-['dicha', 'trabajo', 'salud', 'vacaciones']
-['precioso', 'condenado']
-['libro', 'chiva', 'buen', 'punto', 'comida', 'entonces']
-['hoy', 'primera', 'premier', 'exito']
-['siempre', 'bueno', 'opinion', 'playo']
-['espero', 'jefe', 'mañana', 'libre']
-['nunca', 'spoileo', 'odio', 'recomiendo', 'meterse', 'mañana']
-['rayas', 'gruesas', 'gusta', 'pumas', 'sabe', 'hace']
-['igual', 'vere', 'protagonista', 'guapo']
-['buen', 'dia', 'gracias', 'comentario', 'gusto', 'servirle']
-['mejor', 'compañia', 'osquitar', 'bueno']
-['feliz', 'termine', 'cuatri', 'exito', 'ahora', 'sueño', 'grande']
-['gracias', 'taaaan', 'pendiente']
-['amo', 'nueva', 'cancion', 'sofia', 'reyes']
-['mañana', 'dia', 'libre', 'hacer', 'dormir']
-['vez', 'veo', 'muchacha', 'guapa']
-['errar', 'humanos', 'debe', 'pasar']
-['tener', 'grandes', 'eectativas', 'futuro', 'vida']
-['voy', 'vuelta', 'deje', 'pampa', 'lindisima']
-['voy', 'mañana', 'playa', 'confiando', 'sol', 'quite', 'gripe', 'tan', 'horrible']
-['envidio', 'buena', 'manera', 'oportunidad', 'mañana', 'estadio']
-['casi', 'mision', 'imposible', 'super', 'lindo']
-['mando', 'abrazo', 'vienen', 'dias', 'duros', 'superan', 'eventualmente']
-['misionero', 'ideal', 'claret', 'beatos', 'nuevos']
-['rico', 'silencio', 'cuarto']
-['desayuno', 'guanacasteco', 'hoy', 'nochebuena', 'hoy', 'damos', 'vueltita', 'nicoya']
-['feliz', 'feliz', 'feliz', 'feliz']
-['triste', 'hoy', 'consigo']
-['deben', 'ser', 'mejores', 'hacen', 'menchon']
-['viendo', 'netflix', 'puro', 'moco', 'veanla']
-['ser', 'productora', 'radiofonica', 'mejor', 'vida']
-['abrazote', 'enorme', 'sos', 'exito']
-['funcione', 'vemos', 'cumplido']
-['alpha', 'suerte', 'ten', 'feliz', 'año']
-['quiero', 'mogollon', 'sobretodo', 'rapido', 'contesta', 'wasaps']
-['supuesto', 'solo', 'incluyo', 'entendido', 'mal']
-['pinta', 'buena', 'gente', 'veo', 'conocio', 'gracias']
-['gato', 'tipo', 'garfield', 'vago', 'encanta']
-['responder', 'espero', 'deseo', 'salgan', 'nuevos', 'proyectos', 'besitos']
-['recomiendo', 'parece', 'monotona', 'capitulos', 'vuelven', 'subir', 'interes']
-['solo', 'recuerda', 'iman', 'tranquila']
-['advertido', 'gracias', 'subsanado', 'aportacion']
-['gente', 'buena', 'trabajando', 'duro', 'palabras', 'asi', 'impulsan']
-['pueda', 'quiero', 'tener', 'omega', 'constellation', 'numericos', 'romanos']
-['parada', 'visto', 'rotonda', 'bonica', 'ponia', 'nules']
-['fichado', 'ganas', 'darle', 'uso', 'gracias']
-['gente', 'ayer', 'taguee', 'ayy', 'hannibal']
-['gracias', 'malo', 'solo', 'primer', 'viaje', 'gracias', 'igualmente']
-['sumamos', 'felicitacion', 'grande']
-['dio', 'tener', 'perro', 'ilusion', 'puta', 'vida']
-['gusta', 'personalidad', 'espalda', 'ancha']
-['final', 'acabamos', 'hablando', 'rato', 'simpatica']
-['año', 'madrid', 'hara', 'triplete', 'hace', 'rapo', 'grabad', 'mensaje', 'jejej']
-['sentimientos', 'orgullo', 'valencia', 'grandes', 'quiero', 'mejor', 'valencia']
-['sentimos', 'empatia', 'ser', 'vivo', 'distincion']
-['pues', 'cosas', 'bonitas', 'puedes', 'ver', 'vida']
-['hermoso', 'bueno', 'desviar', 'mirada', 'cielo', 'nubes', 'vez', 'abajo', 'jodido', 'preciosa', 'foto', 'abrazos']
-['edificio', 'edificio', 'facilisimo', 'articular']
-['lamento', 'decirles', 'calvo', 'calva', 'perfecta', 'opacada', 'pelo']
-['puesto', 'radio', 'solo', 'escucharle', 'ganas', 'verle', 'ostia']
-['hace', 'tiempo', 'hablabamos', 'skype', 'amigo', 'ademas', 'mona']
-['pensar', 'irse', 'pronto', 'cama', 'ver', 'dan', 'capitulos', 'mejor', 'manera', 'alegrarse', 'noche']
-['pues', 'ahi', 'huyes', 'entonces', 'luchadora', 'cobarde']
-['nop', 'ahora', 'queda', 'claro', 'asunto', 'gracias']
-['años', 'viaje', 'conformate', 'moleculas', 'potasio', 'buenas']
-['creas', 'gusta', 'tener', 'gente', 'engañada']
-['cuanto', 'salga', 'bucle', 'infinito', 'casa', 'imprimo', 'mapas', 'dos', 'estreno']
-['enhorabuena', 'geniales', 'resultados', 'economicos', 'record', 'trimestre', 'pasado', 'gran', 'trabajo']
-['noticia', 'perfecta']
-['hoy', 'toca', 'escuchar', 'grandes', 'artistas']
-['pecar', 'ser', 'buena', 'gente']
-['quedo', 'tranquilo', 'entonces', 'mirando', 'opcion', 'coche']
-['ser', 'divertido', 'imagino', 'hombres', 'vetados']
-['tio', 'quiero', 'mil', 'hablado']
-['puedo', 'olvidar', 'imposible', 'resumiendo', 'puedo', 'olvidar', 'hare', 'jamas']
-['bien', 'bien', 'celebrando', 'nacieron', 'dia', 'dos', 'capitulos']
-['chulas', 'gafas', 'paula', 'guapa', 'talento', 'innato']
-['tarde', 'voy', 'comprar', 'juego', 'esperando', 'muchisimo', 'tiempo', 'posiblemente', 'suba', 'tarde', 'noche', 'yoshi', 'aparece']
-['victorerubio', 'recomendarme', 'seguimiento', 'artistas', 'talla', 'internacional', 'monologos', 'musica', 'directo']
-['work', 'home', 'espectacular', 'poder', 'verlas']
-['doble', 'campeon', 'europa']
-['buenos', 'almerienses', 'mil', 'besitos']
-['biologos', 'complacidos', 'mola']
-['haciendo', 'feliz', 'tl', 'quiero', 'sigas']
-['necesarias', 'duro', 'año', 'trabajo', 'cogido']
-['hola', 'bella', 'andrea', 'maravilloso', 'dia', 'besitos']
-['vez', 'decanto', 'japonesa', 'encanta', 'batalla', 'caratulas']
-['importantes', 'mediadores', 'buenos']
-['bien', 'dicho', 'roberto', 'cosas', 'nombre', 'nadie', 'dice', 'cola', 'cado']
-['super', 'mona', 'pueda', 'mirare', 'molaria', 'grupal', 'chicas', 'spidey']
-['mensaje', 'buenos', 'dias', 'corazon', 'feliz']
-['asi', 'compañera', 'fuerte', 'abrazo']
-['tan', 'estupenda', 'siempre', 'besitos', 'feliz', 'dia']
-['menos', 'ftwd', 'hace', 'ameno', 'esperar', 'twd', 'octubre']
-['reconocido', 'perfil', 'placer', 'mutuo', 'guapa']
-['gracias', 'seguirme', 'leemos']
-['sortija', 'buen', 'detalle', 'gracias']
-['maneras', 'mejores', 'ocurren', 'empezar', 'semana']
-['gracias', 'ser', 'sorpresa', 'ser', 'tan', 'genial', 'vemos', 'pronto', 'seguro']
-['hoy', 'microaventura', 'dos', 'expertos', 'kayakistas', 'ria', 'villaviciosa', 'puntal']
-['quiero', 'figura', 'madison', 'proxima', 'salir']
-['buenos', 'billete', 'comprado', 'ahora', 'hacer', 'dieta', 'deretido', 'tarjeta']
-['genial', 'debemos', 'organizar', 'cosas', 'asi', 'necesidad', 'nadie', 'abandone', 'pais']
-['fin', 'espero', 'recibas', 'tuit', 'realidad', 'alternativa', 'sigues', 'viva', 'ahi', 'acaba', 'camino', 'suerte']
-['sido', 'placer', 'profesionales', 'hoy']
-['tan', 'bella', 'estilo', 'siempre', 'mereces', 'siempre', 'mejor', 'maravillosa', 'besitos', 'feliz', 'dia']
-['añadido', 'sabia', 'hacerlo', 'leyendo', 'dias', 'bastante', 'encontre', 'modo', 'hacerlo', 'perfecto']
-['recomendacion', 'mejor', 'buena', 'partida']
-['escenario', 'muwi', 'revellin', 'gratuito', 'abierto', 'publico']
-['amazon', 'conozco', 'llega', 'lunes', 'sientete', 'afortunada']
-['sales', 'genial', 'icon', 'conozco', 'casi']
-['persona', 'ironica', 'gusta', 'muchisimo', 'humor', 'asi']
-['hola', 'luis', 'vendras', 'barcelona', 'promocionar', 'abrazo', 'feliz', 'dia']
-['veronika', 'gran', 'actriz', 'sobretodo', 'maravillosa', 'persona', 'deseando', 'verla', 'ahi', 'besos']
-['dia', 'examenes', 'suena', 'lejano', 'semana', 'viene', 'jajaxd']
-['septiembre', 'limitan', 'horario', 'toboganes', 'piscinas', 'siguen', 'abiertas', 'noviembre']
-['buenos', 'dias', 'podamos', 'contarlo']
-['buenos', 'dias', 'serio', 'primer', 'dia', 'curro']
-['genial', 'vendra', 'buen', 'dia']
-['gusto', 'paseo', 'alternativo', 'gante']
-['diras', 'ganadores', 'buenos', 'dias', 'lindo']
-['chulada', 'mola', 'post', 'chicas']
-['preciosa', 'actriz']
-['gusta', 'creo', 'bien']
-['canales', 'latinoamerica', 'andres', 'tampoco', 'mal', 'buen', 'material']
-['hoy', 'molon', 'hoya', 'felicitad', 'bonica', 'maja']
-['intrigante', 'autoexploracion', 'consciencia', 'espejo', 'mano', 'pionero', 'gaona']
-['veces', 'hablamos', 'skype', 'pareciste', 'grandisima', 'persona']
-['vuelto', 'escuchar', 'años', 'despues', 'maravilloso']
-['apruebe', 'suspendo', 'paso', 'voy', 'montar', 'fiesta', 'parare', 'beber', 'higado', 'reviente']
-['acabo', 'hablar', 'alba', 'esroy', 'poquito', 'mejor']
-['datos', 'hoy', 'dia', 'mejor', 'catalogo', 'sismico', 'datos', 'historicos']
-['bonico', 'darles', 'vida', 'libros']
-['tio', 'depresion', 'pasa', 'amor', 'soluciona']
-['experto', 'hacer', 'reencuentros', 'inolvidables', 'since']
-['viene', 'pelea', 'fuertes', 'willy', 'toledo', 'pequeño', 'nicolas']
-['artista', 'favorito', 'ver']
-['diciendole', 'cara', 'verdades', 'primer', 'entrevistado', 'atreve', 'hacerlo', 'directo']
-['meo', 'novio', 'novia', 'contentos']
-['ambientado', 'italia', 'comedia', 'serie', 'parejas', 'entuertos', 'honor', 'clase', 'social', 'humor']
-['conocido', 'hace', 'años', 'claro', 'surgio', 'amor']
-['nacho', 'haciendo', 'cadena', 'graciosa']
-['ser', 'filler', 'bastante', 'bueno', 'entra', 'duel', 'mejores', 'filler']
-['buena', 'tarde']
-['vale', 'funciona', 'aleluya', 'cambiar', 'boton', 'palanza', 'derecha', 'izquierda', 'roto']
-['familia', 'huerta', 'perros', 'condiciones', 'estupendas']
-['perfecto', 'buena', 'cerveza', 'siempre', 'bien']
-['bien', 'mundo', 'tercera', 'generacion', 'primera', 'merece', 'pena']
-['solo', 'karlita', 'entiende', 'buenos', 'consejos']
-['alegria', 'ver', 'gente', 'salido', 'defensa', 'clasicos', 'cultura', 'gratamente', 'sorprendida']
-['veces', 'unico', 'merecen', 'pena']
-['espalda', 'bien', 'chicos', 'preocupeis', 'espero', 'juicio', 'lento', 'libre', 'carcel']
-['acompañar', 'temporada', 'seguramente', 'exitosa', 'james', 'recordatorio', 'frecuente', 'descomunal', 'trabajo']
-['pues', 'maravillosos', 'ejemplo', 'hoy', 'mañana']
-['adoro', 'cuenta', 'llena', 'cosas', 'bonitas']
-['encanta', 'asi', 'feliz', 'vida', 'buenisimas', 'noches', 'amo']
-['libros', 'enganchan', 'primera', 'pagina', 'hacen', 'tiempo', 'vuele', 'buenisismas', 'noches']
-['pues', 'siguiente', 'gracias', 'haberme', 'ayudado']
-['bonito', 'rincon', 'ganas', 'ver', 'nueva', 'web']
-['artista', 'muchas', 'gracias', 'ayudarme', 'dejar', 'libro', 'bonito']
-['vale', 'probado', 'hoy', 'parece', 'bueno', 'vere', 'videos']
-['buen', 'viaje', 'cod', 'van', 'mañana', 'pasarlo', 'bien', 'disfrutarlo', 'puedo']
-['frio', 'siempre', 'puedes', 'poner', 'buen', 'abrigo']
-['menos', 'mal', 'dicho', 'escuchal']
-['siiiiii', 'tio', 'invito', 'litro', 'jurao']
-['momento', 'alta', 'autoestima', 'ego', 'puedo', 'asegurar', 'sonrisa', 'contagia', 'persona', 'obviamente']
-['app', 'deja', 'salirte', 'seguir', 'escuchando', 'canciones', 'pasan', 'solas']
-['siiiii', 'nuevo', 'lista', 'programa', 'luego', 'concierto']
-['paseo', 'tren', 'madrid', 'findes', 'largos', 'dos', 'semanas']
-['gracias', 'placer', 'conocer', 'pueblo', 'tan', 'precioso']
-['genial', 'ultima', 'parada', 'estreno', 'salas']
-['ganas', 'hacer', 'stream', 'especial', 'horas', 'objetivo']
-['ahi', 'gustos', 'diferentes', 'asi', 'puede', 'hablar']
-['alba', 'carrillo', 'buena', 'modelo', 'haciendo', 'gala', 'profesion', 'entrevista', 'willy', 'toledo']
-['buen', 'motivo', 'tope', 'venga']
-['cracias', 'dices', 'bendicion', 'ser', 'paciente', 'veras', 'llega', 'milagro', 'solo', 'asi', 'ten']
-['poniendo', 'fotos', 'loco', 'tan', 'mal']
-['clasico', 'dia', 'donostiarra', 'quedarse', 'casita', 'futbol']
-['permiso', 'favor', 'foto', 'miquel', 'encantado', 'poder', 'verla', 'timeline']
-['solo', 'hace', 'flojos', 'pantalon', 'flipante']
-['pasar', 'gratis', 'siguiente', 'temporada']
-['esperando', 'nueva', 'temporada', 'vamos', 'calentando', 'motores', 'estreno', 'noche']
-['molando', 'bastante', 'rollo', 'encima', 'balistico', 'dan', 'mal']
-['hace', 'tres', 'dias', 'hoy', 'pegado', 'segundo', 'clip', 'alto', 'ala', 'caza']
-['ves', 'programa', 'favorito', 'solo', 'encuentro', 'temporada', 'vistos']
-['gracias', 'niñuca', 'gran', 'sensibilidad', 'valoro', 'opinion', 'feliz', 'noche']
-['hilo', 'fabuloso', 'comparto', 'dices']
-['toca', 'tema', 'maravilloso', 'dejar', 'ser', 'ficcion', 'podria', 'darse', 'gran', 'hermano']
-['ver', 'semifinal', 'masculina', 'mientras', 'hago', 'estatica', 'tope']
-['frio', 'solucion', 'hacer', 'dice', 'frase', 'sabado', 'sabadete', 'camisa', 'nueva']
-['pareja', 'peazo', 'abuelo', 'tener', 'hijo', 'pletorico']
-['facil', 'verdadero', 'amor', 'pokemon']
-['comenzando', 'hacerse', 'visibles', 'ahora', 'van', 'segundo', 'modelo', 'fairphone']
-['buscame', 'zapdos', 'legales', 'gustan', 'wapo']
-['buen', 'amigo', 'compartir', 'pregunta', 'ask']
-['conoci', 'vuelto', 'ver', 'pareces', 'super', 'sincero', 'leal', 'gusta', 'hablar', 'contigo']
-['verdad', 'buena', 'pinta', 'investigare']
-['siempre', 'tortilla', 'triunfa', 'platos']
-['atrasadas', 'gracias']
-['alli', 'volvemos', 'despues', 'semana', 'espectacular']
-['solo', 'quiero', 'bailarte', 'medusa', 'loca', 'privado']
-['aceptado', 'reembolsarme', 'cobertura', 'maritima', 'advirtio', 'momento', 'contenta', 'parece', 'justo']
-['bueno', 'voy', 'hacer', 'sprite', 'primer', 'lider', 'gimnasio', 'fan', 'made']
-['envidia', 'mala', 'dado', 'disfruta', 'aun', 'duelen', 'piernas', 'buena']
-['niñuca', 'preciosa', 'prometo', 'alegrado', 'tarde', 'detalle', 'tan', 'bello', 'enternecedor', 'mil', 'besos']
-['aqui', 'haciendolo', 'conservadora', 'sale', 'seguro', 'ver', 'montamos', 'thanks', 'ideas']
-['agosto', 'dia', 'internacional', 'solidaridad', 'solidaridad', 'comienza', 'sonrisa', 'feliz', 'dia']
-['terapia', 'panorama', 'asi', 'normal', 'siga', 'soltera', 'problema', 'siento', 'mejor']
-['festivales', 'favoritos', 'ido', 'dos', 'veces']
-['horarios', 'distintos', 'ahi']
-['gustaria', 'poder', 'abrazarte', 'sientas', 'mejor']
-['sido', 'acierto', 'grande', 'anoche']
-['espero', 'sobretodo', 'tenerla', 'niño', 'gracias', 'guapa']
-['tranquilo', 'omar', 'sigo', 'ahora']
-['ruta', 'ideal', 'disfrutar', 'familia']
-['etapa', 'cierra', 'comienza', 'nueva', 'aventura']
-['primer', 'tuit', 'llego', 'preguntamos', 'buen', 'dia', 'buena', 'compra']
-['walter', 'genial', 'echarle', 'cenizas', 'donie']
-['va', 'tranquilas', 'nunca', 'logra', 'refutarme']
-['primer', 'dia', 'operacion', 'bikini', 'superado']
-['veces', 'abre', 'escuchado', 'canso', 'hacerlo', 'suena', 'tan', 'bien', 'juntos']
-['gracias', 'rodrigo', 'compartir', 'paso', 'feria', 'libro', 'benidorm', 'esperamos', 'encantado']
-['bonito', 'puede', 'ser', 'cierto', 'alegro', 'mencion']
-['muchisimas', 'llegue', 'prontito', 'disfrutes']
-['vida', 'lleva', 'caminos', 'inextricables', 'alegro', 'molado', 'programa', 'hoy']
-['corasonsito', 'pide', 'gritos', 'clexa', 'fanfics', 'bonitos', 'profundos', 'dejan', 'llorando']
-['sabado', 'risas', 'juntos', 'año']
-['aspecto', 'conocido', 'sistema', 'solar', 'probablemente', 'aun', 'cosas', 'descubrir', 'ahi']
-['javier', 'hecho', 'ilusion', 'respuesta', 'feliz', 'noche']
-['galleta', 'bonita', 'feliz', 'mejor', 'maknae', 'mundo']
-['guapa', 'menuda', 'promocion', 'haces', 'sol']
-['buscare', 'pinterest', 'asi', 'gracias']
-['lindo', 'ver', 'vuelves', 'leon', 'echa', 'menos', 'aqui', 'quiero', 'abrazarte']
-['genial', 'ahora', 'mejor', 'tres', 'primeras', 'aun', 'asi', 'todavia', 'cosas', 'pulir']
-['solo', 'cite', 'gran', 'definicion', 'dio', 'pronto', 'artista', 'omar', 'jerez']
-['va', 'gusto', 'igual', 'siento', 'sino', 'blme', 'bien', 'adaptado', 'libros', 'sparks']
-['buenos', 'dias', 'magaluf']
-['nuevo', 'trailer', 'espero', 'gusten', 'pokecasas', 'imaginabais', 'asi', 'dentro']
-['miserables', 'libro', 'pesado', 'silmarillion', 'amo', 'dos', 'asi', 'valdra', 'pena']
-['dreamer', 'siempre', 'quiero', 'chicos', 'quier', 'abrazaros']
-['pintaza', 'chistorra', 'lomo', 'productos', 'deliciosos', 'probaremos', 'sugerencia', 'frio', 'bocadillo']
-['capturado', 'primer', 'gimnasio', 'pokemon', 'cierto', 'probable', 'tarden', 'minutos', 'quitarmelo', 'mola']
-['canal', 'global', 'talents', 'suele', 'ser', 'rapido', 'subir', 'actuaciones', 'valoraciones', 'previos', 'resultados']
-['principios', 'septiembre', 'saldra', 'nuevo', 'tema', 'forma', 'video', 'ganas', 'escucheis']
-['hola', 'guapisima', 'encantaria', 'hablar', 'contigo', 'dm', 'puede', 'pasar']
-['disponible', 'nueva', 'sesion', 'mejor', 'house', 'rollazo', 'flipante']
-['parte', 'aspirantes', 'grandes', 'opciones', 'llegar', 'galas']
-['perfecto', 'mejor', 'incitar', 'lectura', 'contaras', 'tal', 'magico', 'niños', 'niños']
-['queria', 'manifiesto', 'cables', 'chinos', 'cojonudos', 'cosa', 'compres', 'barato']
-['faltaria', 'pensaba', 'construyen', 'discursos', 'emplean', 'debate', 'interesante']
-['quedan', 'ocho', 'meses', 'aun', 'hacer', 'confiemos', 'poder', 'realizar', 'proyecto', 'planteado', 'paciencia']
-['hola', 'tomas', 'visto', 'nuevos', 'normal', 'comience', 'espectaculo']
-['aun', 'jugable', 'tgs', 'creo', 'tarde', 'demasiado']
-['siento', 'spam', 'quiero', 'compartais', 'conmigo', 'felicidad', 'momento', 'espero', 'ser', 'mejor', 'capitan']
-['pies', 'mariano', 'rajoy', 'partidarios', 'aunque', 'tarjeta', 'viva', 'espana']
-['siempre', 'buscando', 'mejor', 'ahora', 'bien', 'cobro', 'bien', 'puede', 'vaya']
-['ultima', 'partida', 'jugada', 'sona', 'support', 'grandes', 'razones', 'jugar', 'sona']
-['echar', 'menos', 'casa', 'leyendas', 'urbanas']
-['perdon', 'dudas', 'twitter', 'ayudas', 'convocatoria', 'ayudas', 'interesnate']
-['gracias', 'respuesta', 'cosa', 'aqui', 'necesites', 'saludos']
-['favoritas', 'galeria', 'luz', 'captaste', 'misteriosa', 'ademas', 'encanta']
-['cambiar', 'mejor', 'sistema', 'educacion', 'medica', 'españa', 'complicado', 'gente']
-['buenos', 'dias', 'extras', 'meses']
-['gracias', 'fantastico', 'post']
-['hola', 'vengo', 'intagram', 'verdad', 'hola', 'igualmente']
-['pequeña', 'donacion', 'hara', 'felices', 'miles', 'chicas']
-['encantados', 'felices', 'abrazo', 'plasencia']
-['gracias', 'feliz', 'haber', 'formado', 'parte', 'edicion', 'master']
-['genial', 'deseo', 'escribirlo', 'seguire', 'escribiendo', 'linea', 'practica']
-['digo', 'facil', 'llevo', 'años', 'intentandolo', 'trabajo', 'vital', 'quiero', 'intentarlo']
-['recupere', 'pronto', 'merece', 'malo']
-['voz', 'bonita', 'ahora', 'solo', 'aprender', 'diferenciarla', 'gusta', 'voz']
-['acabo', 'jugar', 'manual', 'pes', 'cambia', 'juego', 'jugando', 'leyenda', 'velocidad', 'impresionante']
-['gracias', 'momento', 'caido', 'tres', 'asi', 'empieza', 'mal', 'dia']
-['buenos', 'dias', 'aqui', 'andamos', 'sindrome', 'post', 'necesito', 'jugar', 'golpe', 'peeeero', 'tiempo']
-['edad', 'inconveniente', 'parte', 'infancia', 'falta', 'asi']
-['salir', 'trabajar', 'mirar', 'par', 'cosas', 'canal', 'irme', 'cine', 'ver', 'mascotas', 'amigos', 'planazo', 'sabado']
-['pasado', 'grande', 'estaciones', 'autentica', 'gozada', 'familia']
-['plan', 'perfecto', 'terminar', 'fin', 'semana', 'despues']
-['vez', 'equipados']
-['tranquilos', 'dinero', 'camacho', 'seguro', 'mañana', 'empiezan', 'escabadoras', 'arraijanal']
-['tranquilo', 'imaginaba', 'planes', 'ver', 'real', 'alla', 'finales', 'enero']
-['abierto', 'ventanas', 'conectado', 'movil', 'altavoces', 'ver', 'ahora', 'suena', 'mejor']
-['pellegrino', 'dotado', 'equipo', 'gran', 'consistencia', 'defensiva', 'buenos', 'fichajes']
-['queda', 'bien', 'tio', 'espero', 'pasando', 'buen', 'verano']
-['buenooo', 'claro', 'pegando', 'estupendo']
-['ventilador', 'mira', 'cara', 'seductora']
-['enormes', 'buena', 'carrera', 'hoy', 'spa']
-['supuesto', 'amigo', 'pases', 'buen', 'domingo']
-['experiencia', 'centro', 'docentes', 'medida', 'posibilidades', 'llevamos', 'cabo', 'habitualmente']
-['compartir', 'querido']
-['genial', 'genial', 'gente', 'conozca', 'alternativas']
-['buenos', 'dias', 'feliz', 'domingo', 'abrazo']
-['hoy', 'queremos', 'felicitar', 'cumple', 'mejores', 'personas', 'conocido', 'gracia']
-['hola', 'gustaria', 'escuchar', 'nuevo', 'single', 'promocional']
-['preparando', 'cosillas', 'nuevas']
-['octubre', 'cositas', 'fuerte', 'abrazo']
-['mira', 'asi', 'haces', 'ejercicio']
-['gente', 'dio', 'mensaje', 'buscar', 'clan', 'conseguido', 'ser', 'suplente', 'adc', 'dragonszgaming', 'ganas']
-['labios', 'pelo', 'pienso', 'llevariamos', 'bien']
-['partidas', 'beta', 'battlefield', 'amigos', 'mejor', 'mundo', 'risas', 'normales']
-['siempre', 'caen', 'mejores', 'suerte']
-['guapa']
-['agradecidos', 'miras', 'buenos', 'ojos']
-['gracias', 'francisco', 'feliz', 'dia']
-['digas', 'dia', 'ves', 'meta', 'inalcanzable', 'luchando', 'siguiente']
-['gran', 'capacidad', 'entrevista']
-['increible', 'cierto', 'hoy', 'video', 'canal', 'volvemos', 'actividad', 'despues', 'descanso', 'ganas']
-['paso', 'genial', 'haciendolo']
-['hoy', 'visto', 'cazafantasmas', 'fin', 'aunque', 'sido', 'peliculon', 'mantenido', 'entretenido', 'dos', 'horas', 'dura']
-['veia', 'hermosa', 'voy', 'poner', 'vez', 'suda', 'polla', 'twitter']
-['mejores', 'fotos', 'ven']
-['verdad', 'hoy', 'buen', 'dia']
-['puedo', 'encontrar', 'incendio', 'villava', 'tan', 'cerca', 'instituto', 'pena', 'quemase']
-['mejores', 'indicadoras', 'totalmente', 'privada', 'abramos', 'puerta', 'debate', 'previo']
-['vez', 'risas', 'aseguradas', 'entonces', 'mañana', 'preguntamos', 'dadlo', 'hecho']
-['bonitas']
-['volvemos', 'energia', 'carta', 'nueva']
-['primer', 'dia', 'adaptacion', 'superado']
-['septiembre', 'bonito', 'retarse', 'increible', 'puedes', 'aprender', 'medirse', 'obstaculo', 'joyita', 'corona']
-['trabajando', 'equipo', 'especial', 'proximo', 'adelanto', 'ser', 'programon']
-['salimos', 'zaragoza', 'fin', 'semana', 'unico']
-['bienvenido', 'arriba', 'sanchez', 'jajaaa']
-['tal', 'punto', 'comprar', 'entradas', 'opcion', 'coger', 'aun', 'asi', 'arte', 'magia']
-['gracias', 'feliz', 'dia']
-['alegro', 'importante', 'darnos', 'cuenta', 'gran', 'valor', 'podemos', 'aportar', 'encontrar', 'mision']
-['verdad', 'fotos', 'bonitas']
-['mejor']
-['unico', 'hace', 'feliz', 'escuchar', 'adivinar', 'ganar']
-['mejor', 'bae']
-['emotivos']
-['vuelto', 'casa', 'llevan', 'bien', 'vez', 'pasa', 'culpa', 'quedan', 'tan', 'tranquilos']
-['inteligente']
-['buena', 'nana', 'dormir']
-['volante', 'peligro', 'constante', 'enhorabuena']
-['muere', 'labios', 'mirada', 'tan', 'cerca', 'dandote', 'besos', 'dice', 'ver']
-['vez', 'escucho', 'primera', 'vez', 'final', 'mata']
-['serio', 'amo']
-['mañana', 'encima', 'mañana', 'vuelve', 'ser', 'dia', 'grabacion', 'dejar', 'preparado']
-['vivo', 'privilegio', 'decir', 'opinio', 'ver', 'vemos']
-['puedo', 'meterme', 'diseño', 'precioso', 'jugue', 'perderme', 'dejarlo', 'encanto']
-['importante', 'serie', 'pueda', 'seguir', 'importa', 'partida', 'mientras', 'punto']
-['conozco', 'gente', 'hacer', 'feliz', 'mundo', 'fomentar', 'culturas']
-['ves', 'alguien', 'hecho', 'pasar', 'tan', 'mal', 'sientes', 'mejor', 'puede', 'pasar']
-['solo', 'sabe', 'hacerme', 'feliz']
-['leila', 'mejores']
-['muchisimas', 'fuerte', 'abrazo']
-['muchisimas', 'fuerte', 'abrazo']
-['gustado', 'respuesta', 'pregunta', 'aun', 'asi', 'vientos', 'soplen', 'favor', 'direcciones']
-['guapa']
-['perfecto', 'entonces', 'gracias']
-['pla', 'clase', 'estadistica', 'acaba', 'conferencia', 'sony', 'hoy', 'veloz', 'llegar', 'casa']
-['bocina', 'acaba', 'entregar', 'paquete', 'amazon', 'faltaba', 'asi', 'guay', 'daba', 'perdido', 'mañana']
-['guapa']
-['lio', 'siendo', 'tio', 'mal', 'partido', 'buen', 'puesto', 'divertido', 'ademas', 'guapo']
-['pues', 'hablaba', 'tokio', 'hotel', 'ytbers', 'alegro', 'tener', 'seguidor', 'cerebro', 'menos']
-['siempre', 'sido', 'honesta', 'clara', 'pelos', 'lengua', 'nonpuedo', 'orgullosa', 'persona', 'converti']
-['verdad', 'segura', 'siendo', 'persona', 'tan', 'conocida', 'utilizado', 'terminos', 'piensa', 'correctos']
-['mal']
-['fin', 'directo', 'gracias', 'pasado', 'streaming', 'saludito', 'ahora', 'voy', 'compras', 'noche', 'viciada', 'maxima']
-['esfuerzo', 'segunda', 'parte', 'ver', 'victoria', 'deja', 'rato', 'feria', 'albacete']
-['ganas', 'ver', 'abrazarle', 'iba', 'decir', 'menos', 'tocara', 'narices']
-['ahors', 'puedo', 'tirar', 'horas', 'viendo', 'videos', 'conciertos', 'encanta', 'mueve', 'escenario', 'niño']
-['pues', 'quereis', 'diga', 'nuevo', 'gaga', 'bien', 'nuevo', 'sia', 'muchisimo', 'mejor', 'cancion', 'completa']
-['comics', 'star', 'venden', 'sitio', 'tiendas', 'especializadas', 'hipercor', 'alcampo']
-['geniales']
-['menos', 'hoy', 'dormido']
-['the', 'mejor']
-['gracia', 'mixta']
-['voy', 'tipa', 'dura']
-['comiendo', 'zumooo']
-['taaaaaan', 'bonito']
-['preciosa']
-['kiero']
-['delicisio', 'tio']
-['tan', 'orgullosa', 'yoongi']
-['hoy', 'voy', 'enfadada']
-['cariñoso']
-['feliz']
-['dia', 'nublado', 'ser', 'mal', 'dia']
-['tio', 'tan', 'perfecto']
-['hoy', 'dia', 'bonito']
-['hoy', 'veo', 'guapa']
-['feliz', 'voy', 'ser']
-['asi', 'grande', 'hoy']
-['mejor', 'año']
-['bonitas']
-['tan', 'irresponsable']
-['sabian', 'after', 'fav', 'teatro', 'g', 'construido', 'dia', 'hoy', 'voy', 'dar', 'placer', 'vean', 'ahi', 'metido']
-['hoy', 'primera', 'vez', 'sali', 'permiso', 'mujer', 'detalle', 'saber', 'lado', 'llegare', 'casa']
-['buen', 'dia', 'elige', 'dias', 'milagro', 'dia', 'lleno', 'armonia', 'luz', 'amor', 'buenas', 'vibras', 'elijo', 'ser', 'feliz']
-['dios', 'sorprendido', 'semana', 'caja', 'cafe', 'cosas', 'vienen', 'cosas', 'mejores', 'sige', 'maestria']
-['listo', 'fin', 'casa', 'dormir', 'horas', 'nomas', 'gracias', 'dios', 'papas', 'bien', 'yendo', 'chingon', 'ahora', 'chingarle', 'salu']
-['niñ', 'junto', 'jugando', 'preguntarse', 'haces', 'saben', 'respuesta', 'correcta', 'mal', 'mal']
-['falta', 'acabarme', 'cause', 'juego', 'mamadas', 'yirs', 'fifa', 'papi', 'cause']
-['tempranas', 'horas', 'noche', 'solo', 'falta', 'leer', 'mensajes', 'whats', 'chido', 'gusta', 'leer', 'verdad']
-['ustedes', 'verdad', 'siempre', 'lucen', 'conciertos', 'hicieron', 'felices', 'miles', 'besos', 'abrazos']
-['viridiana', 'piensas', 'llegar', 'llenadera', 'mama', 'dormida', 'cuarto', 'mama', 'vi']
-['buenos', 'dias', 'enojes', 'recuerda', 'gente', 'hace', 'cosas', 'gente', 'hace', 'cosas', 'afectan', 'besitos']
-['ayer', 'amor', 'vida', 'vida', 'buen', 'amor', 'vida', 'pasado', 'feliz']
-['hoy', 'fin', 'cene', 'comida', 'calle', 'hoy', 'walmart', 'hiciera', 'cenar', 'dsps', 'semana', 'cenar', 'mal']
-['claro', 'amor', 'amo', 'esperando', 'aeropuerto', 'sal', 'quiero', 'veeeer']
-['hablar', 'amiga', 'cuenta', 'anda', 'viajando', 'fiesta', 'uni', 'suda', 'hace', 'sentir', 'bien', 'feliz']
-['exacto', 'foto', 'tome', 'rueda', 'prensa', 'pues', 'fey', 'subio', 'difundo', 'fotos', 'hago']
-['minutos', 'nuevo', 'video', 'canal', 'youtube', 'pequeño', 'regalo', 'empiecen', 'pasar', 'agasajo']
-['dias', 'miedo', 'vivir', 'rompete', 'corazon', 'alma', 'vida', 'regresarla', 'intacta', 'sino', 'vivida', 'besitos']
-['dias', 'caiste', 'importa', 'levantate', 'continua', 'haz', 'lado', 'piedra', 'tropezaste', 'caer', 'nuevo', 'besitos']
-['buenos', 'dias', 'vida', 'dulce', 'gracias', 'asi', 'gracias', 'crece', 'aprende', 'besitos']
-['dias', 'entrena', 'mente', 'vives', 'piensas', 'elige', 'amable', 'bondadoso', 'consciente', 'sano', 'creativo', 'alegre', 'besitos']
-['pacifico', 'cerveza', 'mariscos', 'gustavo', 'cerati', 'fondo', 'paz', 'playas', 'reyes', 'paz', 'hermoso']
-['llegar', 'seguidores', 'arriba', 'arriba', 'vergas', 'ricas']
-['voy', 'hacer', 'amo', 'quiero', 'unica', 'real']
-['buenos', 'dias', 'aprende', 'confiar', 'silencio', 'aumentar', 'surgira', 'tormenta', 'rugir', 'calmara', 'besitos']
-['pesar', 'ser', 'inicie', 'pie', 'derecho', 'hoy', 'dara', 'bajon', 'ando', 'motivada', 'dar', 'power', 'amigos']
-['nuevamente', 'fin', 'semana', 'vez', 'rapido', 'casi', 'termina', 'año', 'espero', 'dios', 'dado', 'mejor', 'semana']
-['hoy', 'amanecio', 'nublado', 'frio', 'dia', 'salir', 'ver', 'pelis', 'comer', 'pizza', 'bonito', 'buen', 'fin', 'semana']
-['buenos', 'dias', 'permites', 'corazon', 'mente', 'mapa', 'alma', 'entonces', 'nunca', 'perderas', 'besitos']
-['sonrisa', 'unico', 'hace', 'daño', 'alma', 'siempre', 'sonrie', 'calavera', 'suerte']
-['forma', 'tan', 'linda', 'decir', 'chavez', 'saludo', 'prontito', 'vemos', 'abrazos', 'papa']
-['buenos', 'dias', 'hecho', 'amor', 'regresa', 'recompensa', 'viene', 'arriba', 'llena', 'corazon', 'ego', 'besitos']
-['excelente', 'semana']
-['querida']
-['mala', 'idea']
-['urge', 'empedar', 'contigo']
-['pensar', 'cosas', 'buenas']
-['buenos', 'dias', 'hoy', 'capaz', 'sembrar', 'mañana', 'cosecharas', 'futuro', 'depende', 'realices', 'presente', 'besitos']
-['llegar', 'encontrar', 'mencion', 'jesse', 'foto', 'tan', 'hermosoooooo', 'amo', 'verdad', 'grite']
-['buena', 'buena', 'foto']
-['deja', 'burlarte', 'bien', 'aprend', 'adem', 'salud', 'cosas', 'maravillosas']
-['dias', 'secreto', 'buena', 'salud', 'vivir', 'ahora', 'dueño', 'pasado', 'sueñes', 'futuro', 'solo', 'presente', 'pertenece']
-['buena', 'pondre', 'ver', 'duermo', 'dura', 'buen', 'buena', 'mil', 'gracias']
-['amo', 'buen']
-['espero', 'dar', 'estabilidad', 'economica', 'futuro', 'pues', 'quisiera', 'sentirme', 'desbordada', 'deseo']
-['pinche', 'partidazooo']
-['puedes', 'ser', 'feliz']
-['fan', 'fut', 'hermana', 'puso', 'ver', 'final', 'partir', 'tiempo', 'extra', 'debo', 'decir', 'buena']
-['happy', 'birthday', 'legal', 'hoy', 'siempre', 'mejores', 'deseos', 'quiero', 'rato', 'veo']
-['caes', 'lee', 'sigue', 'camino', 'feliz', 'super', 'santa', 'regalitos', 'quiero']
-['amor', 'iba', 'contigo', 'pues', 'padre', 'avion', 'amo', 'regresate']
-['hola', 'preciosa', 'pesar', 'frio', 'ganas', 'verte', 'dias', 'grande', 'alegras', 'bella', 'sonrisa']
-['dias', 'busca', 'centro', 'enfocate', 'feliz', 'agradece', 'incluso', 'momentos', 'desafiantes', 'dolorosos', 'gratitud', 'libera', 'besitos']
-['amo', 'pones', 'lugar', 'mero', 'mujeres', 'arreglar', 'changarro', 'cae']
-['amigas', 'hablaria', 'nadie', 'contigo', 'whats', 'benditas', 'amigas', 'amo', 'hablo', 'niños']
-['llena', 'bendiciones']
-['cosas', 'pueden', 'dar', 'satisfacciones', 'solo', 'saber', 'quiere', 'perderse', 'buen', 'inicio', 'año']
-['feto', 'bonito']
-['bueno', 'hoy', 'duermo', 'temprano', 'linda', 'noche', 'disfruta', 'maximo', 'leas', 'tqm']
-['rato', 'preparar', 'cena', 'fin', 'año', 'hijos', 'rato', 'misa', 'darle', 'gracias', 'dios', 'lleno', 'ilusiones', 'sueños']
-['atenciones', 'talento', 'soportarme', 'año', 'siga', 'exito', 'mejor']
-['gran', 'año', 'personas', 'favoritas', 'mundo', 'año', 'volvamos', 'ver', 'abrazar']
-['feliz', 'año', 'washitos', 'deseo', 'mejor', 'mundo', 'mando', 'fuerte', 'abrazo', 'volvamos', 'encontrar']
-['bien', 'divertida', 'das', 'risa', 'siempre', 'andas', 'buenas', 'agrada', 'buena', 'persona', 'crushes']
-['dias', 'suelta', 'viejas', 'creencias', 'cambia', 'energia', 'cruza', 'limites', 'imaginarios', 'usa', 'corazon', 'libera', 'niño', 'interior', 'besitos']
-['naaa', 'postales', 'tan', 'hermosas', 'taleb', 'feliz', 'año', 'mando', 'abrazo', 'año', 'tan', 'lindo', 'bonito', 'conocerte']
-['recibe', 'calido', 'fuerte', 'abrazo', 'san', 'luis', 'potosi', 'l', 'casi', 'cumple']
-['hola', 'deseo', 'feliz', 'año', 'nuevo', 'lleno', 'salud', 'abundancia', 'exitos', 'mando', 'fuerte', 'abrazo']
-['hola', 'paso', 'desearte', 'feliz', 'año', 'nuevo', 'lleno', 'salud', 'abundancia', 'exitos']
-['mejor', 'seres', 'queridos', 'recibe', 'calido', 'fuerte', 'abrazo', 'san', 'luis', 'potosi', 'l', 'tqm']
-['ibexams', 'grad', 'prepatec', 'vemrd', 'grad', 'ib', 'itesm', 'inq', 'emria', 'buen', 'año', 'viene', 'mejor']
-['mejor', 'nuevo', 'año', 'evelyn', 'venga', 'futbol', 'aficionadas', 'mando', 'abrazo', 'dios', 'bendiga']
-['ultimo', 'tweet', 'año', 'ser', 'año', 'perro', 'ambitos', 'puedo', 'traer', 'cosas', 'buenas']
-['shido', 'ser', 'fiel', 'sabia', 'paso', 'veces', 'primer', 'novio']
-['mejor', 'fechas', 'frio', 'vienen', 'solo', 'planchar', 'camisa']
-['aqui', 'ando', 'enferme', 'garganta', 'ntp', 'sigue', 'jugando', 'amor', 'amo', 'extraño', 'popochas']
-['cosas', 'inutiles', 'guardo', 'memoria', 'dialogos', 'completos', 'shrek', 'dos', 'canciones', 'selena', 'gomez', 'numero', 'telefono']
-['feo']
-['mañana', 'ahorita', 'voy', 'saliendo', 'central', 'nueva', 'lleno', 'rapido']
-['pionera', 'colonia']
-['buenos', 'dias', 'retos', 'vida', 'ahi', 'paralizarte', 'sino', 'ayudarte', 'descubrir', 'tan', 'fuerte', 'besitos']
-['entiende', 'verdad', 'sabe', 'hace', 'vaya', 'hecho', 'bien', 'grande']
-['ganar', 'tio']
-['años', 'aqui', 'hermosa', 'acordar', 'fiel', 'seguidor', 'abrazo', 'inmenso', 'nuevo', 'año', 'bendiciones']
-['ganas', 'verte', 'extrañamos', 'muchisimo', 'vuelve', 'pronto', 'porfavor', 'queremos']
-['lindo', 'sueños', 'hagan', 'realidad', 'copies', 'modas', 'ejemplo', 'seguir']
-['lindos', 'recuerditos', 'mirar', 'fotos', 'enero', 'conviviendo', 'familia', 'hoy', 'hace', 'año']
-['descansa', 'gordis', 'mañana', 'vemos', 'tardes', 'favor', 'sueña', 'bonito', 'amo', 'muchisimo', 'besito', 'frente']
-['yumi', 'amo', 'viendo', 'serie', 'extraño', 'mañana', 'veo']
-['madurar', 'divertido', 'contigo']
-['hace', 'streams', 'buenos', 'veces', 'vacio', 'pone', 'bueno', 'ambiente']
-['crecer', 'cosas', 'causaban', 'efecto', 'emocional', 'ahorita', 'vale', 'madreeee']
-['acorde', 'niño', 'trajeron', 'balon', 'hizo', 'amara', 'ahora', 'apasiona', 'futbol']
-['hermosa', 'mil', 'familia', 'crece', 'crecep', 'gusto', 'dibujito', 'hice']
-['mañana', 'haber', 'niñitos', 'primer', 'patineta', 'ven', 'apoyen', 'ayudenlo', 'frente', 'ustedes', 'nuevo', 'skateboard']
-['hoy', 'pedi', 'dios', 'señal', 'realmente', 'obvia', 'poder', 'tomar', 'importante', 'decision', 'clara', 'pudo', 'gracias']
-['hahaha', 'curas', 'chido', 'posiblemente', 'tigres', 'vaya']
-['brillas', 'brillas', 'tan', 'lindo']
-['espero', 'bonito', 'dia', 'h', 'deseo', 'mejor', 'siempre', 'feliz', 'vez']
-['despedirnos', 'dijo', 'have', 'conteste', 'igual', 'dije', 'pendeja', 'gud', 'lob']
-['rato', 'rosca', 'reyes', 'hoy', 'parte', 'suegro', 'gusta', 'hacer', 'cosas', 'familia']
-['hambre', 'pido', 'cena', 'chavo', 'moto', 'mojar', 'mal']
-['nunca', 'van', 'encontrar', 'amiga', 'guarde', 'papelito', 'secundaria', 'decia', 'nunca', 'cambies']
-['extraño', 'amor']
-['ayñ', 'pasa', 'hermanos', 'super', 'rubio', 'pues', 'igual', 'cute', 'cabello']
-['puede', 'corregir']
-['llegar', 'hogar', 'inmediata', 'alegria', 'corazon', 'asi', 'dias', 'cierran', 'bonito', 'hace', 'tiempo']
-['viste', 'bien', 'divertimos', 'despues', 'nadie', 'indispensable']
-['andas', 'super', 'desaparecido', 'aqui', 'pasando', 'super', 'bonito', 'viaje', 'hace', 'feliz']
-['never', 'late', 'nunca', 'pobre', 'verdad', 'ahorita', 'buscado', 'asi', 'digital']
-['escribi', 'texto', 'bien', 'interesante', 'acerca', 'violencia', 'noviazgo', 'salir', 'relaciones', 'toxicas', 'luego', 'posteo', 'amigos']
-['duermo', 'tarde', 'planeando', 'proyectos', 'apasionan', 'completo', 'inspiracion', 'calma', 'noche']
-['puedo', 'creer', 'propuesto', 'dejar', 'fumar', 'mes', 'casi', 'cumpla']
-['wooooow', 'curativo', 'hace', 'parecer', 'menos', 'agradable', 'gusta']
-['ama', 'siempre', 'quiere', 'venir', 'vino', 'gratis', 'tajin', 'pasado', 'muere', 'venir']
-['mañana', 'retenido', 'compra', 'linea', 'pensaban', 'fraude', 'tarjeta', 'resolvieron']
-['aca', 'ecuador', 'aun', 'falta', 'final', 'telenovela', 'pierdo', 'capitulo', 'abrazo', 'excelente', 'semana']
-['mundo', 'twittero', 'empezo', 'segunda', 'semana', 'año', 'listo', 'vivir', 'dia']
-['trague', 'puro', 'brocoli', 'coliflor', 'pollo', 'ahorita', 'echarme', 'tostadas', 'merezco']
-['gracias', 'puedo', 'esperar', 'tiro', 'perfecto', 'gracias', 'venir']
-['recorri', 'ciudad', 'dia', 'mejor', 'amigo']
-['aguante', 'fritos', 'mateeeees', 'linda', 'quiero', 'fritos', 'ahora', 'ahre', 'encima', 'tomando', 'mates', 'ahre']
-['hablo', 'contigo', 'corazon', 'pone', 'feliz', 'nota', 'pantalla']
-['principal', 'proposito', 'año']
-['hermosa', 'dan', 'ganas', 'comerme', 'frio', 'adentro']
-['extraño', 'osvaldo', 'julio', 'leo', 'increibles', 'igual', 'super', 'jefes']
-['hola', 'pendiente', 'ruta', 'caso', 'encontremos', 'buen', 'precio', 'publicamos']
-['siempre', 'guapo']
-['leer', 'atraveso', 'estupido', 'sensual', 'joyce', 'dublineses', 'estrenar', 'marcadores']
-['importante', 'escucharlo']
-['hoy', 'maestro', 'capricornio', 'paz', 'descanse', 'nuevo', 'sono', 'legado', 'hoy', 'carretera']
-['siestesita', 'pense', 'mañana', 'levanto', 'alarma']
-['paseito', 'laika', 'cumple', 'dias', 'años', 'condenada']
-['dijeran', 'bonita', 'dicen', 'sergio', 'quembidia', 'esque', 'hermoso']
-['puedo', 'evitarlo', 'vdd', 'haces', 'mejor', 'regalo']
-['hiper', 'padre', 'morelia', 'asi', 'muuuy', 'chida', 'costaba', 'quieres', 'avisas']
-['martina', 'regresaste', 'saltos', 'mortales', 'bueno', 'quiero', 'beso', 'regreso']
-['quiero', 'arriesgarme', 'necesito', 'contarte', 'amixxx']
-['dia', 'mañana', 'regresan', 'clases', 'nuevo', 'semestre', 'cumplan', 'objetivos', 'exitoso']
-['ñammm', 'antojo', 'deliciosa', 'cema']
-['curo', 'rapido', 'perdone', 'gracias']
-['tan', 'cerca', 'tan', 'lejos', 'min', 'distancia', 'siendo', 'exactos']
-['punto', 'favor', 'jijiji', 'cosa', 'hoy', 'hice', 'menos', 'quedarme', 'camita']
-['risitas', 'ahi', 'bueno', 'importa', 'solo', 'pasaba', 'desearte', 'buenas', 'noches', 'descansa']
-['mañana', 'nuevo', 'realidad', 'amorsitooo', 'buenas', 'vacas', 'trabajo', 'excelente', 'juntitos']
-['feliz', 'primer', 'lunes', 'gustazo', 'escucharlos', 'queretaro', 'frio', 'chido']
-['escuchan', 'now', 'you', 'gone', 'mejores', 'discos']
-['buenos', 'dias', 'joven', 'feliz', 'año']
-['mama', 'cumple', 'años', 'hoy', 'dias', 'felices', 'amo']
-['visualizando', 'cama', 'durmiendo', 'salga', 'trabajar']
-['feliz', 'feliz', 'vida', 'awww', 'bonito', 'ping', 'muero', 'amor', 'abrazo', 'grande']
-['dicen', 'cuidar', 'recien', 'nacido', 'trabajo', 'equipo', 'asi', 'cambio', 'pañal']
-['ciudad', 'hermosa', 'llena', 'cultura', 'gente', 'bella', 'comida', 'deliciosa', 'muero', 'volver', 'disfruta']
-['mala', 'pata', 'recuperes', 'pronto', 'feliz', 'año']
-['empiezo', 'año', 'dije', 'bien', 'dormida', 'enamorada']
-['buena', 'hrs', 'pasada', 'lanza', 'saludos', 'marlen', 'feliz', 'año']
-['yyyy', 'gracias', 'vamos', 'regalar', 'playera']
-['sola', 'bien']
-['daria', 'disco', 'autografiado']
-['acabo', 'diciembre', 'mes', 'favorito']
-['ser', 'esencial', 'bonito', 'vida', 'bella', 'amistad']
-['ustedes', 'venian', 'enfiestados', 'cinco', 'horas', 'pues', 'pues']
-['edad', 'ntc', 'pues', 'supongo', 'normal', 'digamos', 'paso', 'igual', 'videojuegos', 'encontre', 'maximo']
-['enamorada']
-['gusto', 'entrada', 'aqui', 'mejores', 'deseos', 'año', 'llega']
-['recomendaste', 'mirror', 'incluso', 'temp', 'tan', 'criticada', 'anoto', 'pendientes']
-['pense', 'olvidado', 'hermandad', 'chingona', 'tener', 'vida', 'social', 'olvidarse']
-['seguir', 'consejo', 'lobo', 'caperucita', 'roja', 'oirte', 'mejor', 'verte', 'mejor', 'comerte', 'mejor']
-['parte', 'bonito', 'bien', 'hombre']
-['feeeliz', 'dia', 'enfermeras', 'mundo', 'mundial', 'mejor']
-['hoy', 'detalle', 'happy']
-['profe', 'feliz', 'maestros', 'narracion', 'carajo', 'diria', 'dr']
-['suave', 'contestaras', 'rapido']
-['insisto', 'pondra', 'buenisimo']
-['quiero', 'ver', 'hace', 'falta', 'olvidarme', 'buena', 'musica', 'vivo']
-['quiero', 'novio', 'vez', 'dijiste', 'procure', 'jajajajajajajaja', 'serio']
-['solo', 'quiero', 'alito', 'lapizito', 'quieran', 'pedir']
-['vez', 'bonitos', 'trajo', 'rosca', 'mateo']
-['bueno', 'años', 'yendo', 'rapido', 'pronto', 'vendra', 'siguiente', 'invierno']
-['creo', 'mejor', 'frase', 'personalidad', 'tan', 'particular']
-['frio', 'genial', 'pasen', 'pelicula', 'regalo', 'prometido', 'tamales']
-['animo', 'vida', 'valga', 'alegria', 'pena', 'dile', 'mama', 'buena', 'rosca', 'hace']
-['acabo', 'ver', 'pelicula', 'extrañamente', 'buena', 'cadaver', 'sobrevivir', 'veanla']
-['buena', 'foto']
-['bien', 'saludos', 'bonito', 'nombre', 'aire', 'bonito', 'dia']
-['excelente', 'tema', 'gustaria', 'escuchar', 'don', 'talk', 'anymore', 'solo', 'mejor', 'musica']
-['sueño', 'hermoso']
-['muchas', 'abrazo', 'mejores', 'deseos']
-['taken', 'quiero', 'camara', 'profesional', 'ser', 'feliz', 'botonsitossss']
-['animo', 'aca', 'bienvenido', 'hincha']
-['siempre', 'mejor']
-['favor', 'aun', 'podido', 'comprarlo', 'mejor', 'das', 'abrazo', 'asi', 'ayuda']
-['dolio', 'conciencia', 'suda', 'haria', 'veces']
-['acabo', 'etiquetar', 'cosa', 'alla', 'tia', 'tias']
-['sueño', 'tan', 'imposible', 'tan', 'solo', 'viajar', 'canada', 'puedo', 'lograrlo']
-['vez', 'tan', 'segura']
-['asi', 'primero', 'abajo', 'comiendo', 'panochita', 'luego', 'atras', 'dejarte', 'duro', 'rico']
-['ntojaban', 'canasta', 'jijiji', 'hablame', 'porfa']
-['ser', 'feliz', 'significa', 'perfecto', 'buen', 'dia']
-['feliz', 'pases', 'super', 'bien']
-['haz', 'grande', 'propositos', 'año', 'lar', 'inmobiliaria', 'desea', 'feliz', 'año']
-['hicimos', 'rolas', 'años', 'solo', 'ligamos', 'bandas', 'canciones', 'escuchar']
-['suerte', 'mundo', 'nuevo', 'proyecto', 'espacio', 'hora', 'quiero', 'amiga']
-['igual', 'quiero', 'marzo', 'abril', 'octubre', 'noviembre', 'enteras', 'buenos', 'favor', 'avisa']
-['contrario', 'creo', 'couchhhhhh', 'debo', 'hacer']
-['buenos', 'dias', 'aqui', 'despues', 'enfermo', 'vamos', 'mejorando', 'feliz', 'año', 'bendiciones']
-['pinche', 'equipo', 'ilusiona', 'bien', 'machin', 'año']
-['gustaria', 'conoserte', 'dia', 'contigo', 'plantel', 'chivas', 'gustas', 'narra', 'nunca', 'caso']
-['pendiente', 'familia', 'pendiente', 'mensajes', 'pequeños', 'amores']
-['aparentemente', 'superados', 'efectos', 'venganza', 'moctezuma', 'cogemos', 'camino', 'chiapas', 'historia', 'nunca', 'suficiente']
-['ok', 'gracias', 'ten', 'buen', 'dia']
-['creo', 'bonito', 'entrar', 'ver', 'sigue']
-['flores', 'sido', 'esfuerzo', 'gran', 'equipo']
-['vientos', 'sanando', 'bien', 'chido', 'cuidate', 'manita']
-['mejor', 'personas', 'conocer']
-['gusta', 'ponle', 'limon', 'azucar', 'asi', 'sabe', 'rica']
-['buenos', 'dias', 'pues', 'vamos', 'empezar', 'darle', 'ahora', 'venga', 'candela']
-['feliz', 'dia', 'periodista', 'conocidos', 'amigos', 'gente', 'sigo', 'sigue']
-['buenos', 'bonitos', 'dias', 'amiwoooooooooo']
-['bonito', 'arms', 'segunda', 'cancion', 'escuchada', 'dia']
-['empezaste', 'año', 'empleo', 'nuevo', 'gran', 'abrazo', 'super', 'gusto', 'conocerte', 'exito']
-['feliz', 'año', 'rato', 'saludar', 'abrazo']
-['seguir', 'siendo', 'mejor', 'madre', 'mejor', 'periodista', 'cumplirles', 'sueños', 'seguidores', 'ser', 'mejor', 'persona']
-['queridos', 'dios', 'bendiga', 'amor', 'quiero', 'besitos']
-['siempre', 'sido', 'asi', 'pues', 'siempre', 'cumplido', 'pagado', 'apuestas', 'asi', 'rugiste']
-['años', 'dedicandome', 'periodismo', 'faltan', 'cumplir', 'años']
-['avente', 'season', 'asi', 'va', 'llega', 'temprano', 'ganas', 'verte']
-['dios', 'bueno', 'tiempo']
-['hoy', 'hace', 'años', 'grabamos', 'primer', 'sencillo', 'conmigo', 'siempre']
-['soñe', 'banda', 'rock']
-['super', 'buen', 'caer', 'bien', 'tampoco', 'toca']
-['confieso', 'play', 'dice', 'canciones', 'bangtan', 'canciones', 'loca']
-['mejores', 'luchadores', 'llegado', 'gusto', 'seguirlo', 'hace', 'años']
-['primer', 'logro', 'año', 'cumplido', 'agregaron', 'grupo', 'desayunos', 'trabajo']
-['asi', 'personas', 'honradas', 'note']
-['ando', 'bien', 'nunca', 'bien', 'ricos', 'chispitas']
-['termine', 'contrato', 'empezare', 'buscar', 'nuevo', 'depa', 'gatito']
-['pasas', 'guapa', 'andy']
-['amo', 'mujeres', 'manejan', 'estandar']
-['rico', 'exitabas']
-['encontrara', 'cien', 'años', 'encontrare', 'ojos', 'negros', 'millones', 'ojos', 'negros']
-['bonito', 'novio']
-['amigo', 'canta', 'desafinadamente', 'feliz', 'asi', 'quiero']
-['cero', 'haga', 'feliz', 'tranquilidad', 'super', 'bien']
-['sigue', 'pendiente', 'redes', 'regalando', 'boletos', 'premiere']
-['certain', 'romance', 'frases', 'favoritas']
-['mejores', 'luchadores', 'tecnicos', 'conocido', 'espero', 'salgas', 'triunfador', 'año']
-['mejor', 'llegado', 'enhorabuena']
-['portaste', 'mal', 'bueno', 'regalos', 'gusto']
-['wawwwww', 'siempre', 'encuentro', 'modelo', 'perfecta', 'amo', 'pasion', 'diseñar']
-['tradicional', 'gran', 'sabor', 'visita', 'unidad', 'favorita', 'esperamos']
-['dices', 'vida', 'contigo', 'tomas', 'mano', 'dentro', 'lloro', 'aunque', 'mentira', 'haces', 'sentir', 'viva']
-['amor', 'veo', 'gorda', 'vestido', 'ver', 'rueda', 'poquito', 'izquierda']
-['ayer', 'andabamos', 'alla', 'dire', 'vayamos', 'mañana', 'ver', 'dejan', 'gracias', 'lindas']
-['pierda', 'costumbre', 'dar', 'buenos', 'dias', 'pared']
-['sale', 'luce', 'guapisimo']
-['esperamos', 'disfrutes', 'dia', 'seres', 'queridos']
-['creo', 'sinceridad', 'importante', 'practicarla', 'principal', 'promete']
-['gracias', 'libro', 'puesto', 'ojo']
-['jamas', 'sido', 'romantica', 'necesito', 'abrazos', 'besos', 'practica']
-['primeras', 'vistas', 'amo', 'garza']
-['mañana', 'juegan', 'ganan', 'venga', 'universidad', 'primeros', 'puntos']
-['ser', 'buena', 'maifren', 'ponga', 'bien', 'ahora', 'preocuparte']
-['belleza', 'tigres', 'presente', 'partes', 'chicas']
-['cocinar', 'rica', 'pasta', 'casera', 'espinacas', 'queso']
-['sad', 'music', 'trabajo', 'buena', 'combinacion']
-['muchas', 'genial', 'abrazo']
-['ven', 'bien', 'ricos', 'gracias']
-['buenas', 'noches', 'risitas', 'sueña', 'bonito']
-['yastas', 'aunque', 'anda', 'fallando', 'buena', 'idea', 'diras']
-['amigos', 'neta', 'neta', 'probabilidad', 'irme', 'alcen', 'manos', 'pidanle', 'diosito']
-['veo', 'meses', 'pachuca', 'calidad', 'muchacho', 'ayer', 'demostro', 'listo']
-['segundo', 'dia', 'servicio']
-['unico', 'necesito', 'ser', 'feliz', 'dinero']
-['llenas', 'notificaciones']
-['pie', 'derecho', 'inicio', 'año', 'laboral']
-['bonito', 'volverlos', 'ver', 'saber', 'alegran', 'regreso']
-['neta', 'justo', 'necesario']
-['poder', 'ser', 'feliz', 'persona', 'amas']
-['pues', 'importa', 'dicen', 'suegra', 'jajajajajajaj']
-['abrazo', 'beso', 'buenas', 'noches']
-['quedes', 'conmigo', 'sigamos', 'siendo', 'familia']
-['empezar', 'buena', 'actitud', 'dia', 'mañana', 'hacer', 'validos', 'propositos', 'año', 'nuevo']
-['mejor', 'estudio', 'ver', 'mañana', 'paso']
-['chihuahua', 'mereces']
-['gustas', 'viene', 'tierna', 'mirada', 'sonrisa']
-['excelente', 'cobertura', 'excelente', 'viaje']
-['agradable', 'platica', 'espero', 'repetirlo']
-['esque', 'gusto', 'poquito']
-['recibir', 'sorpresa', 'inesperada', 'pasar', 'noche', 'increible', 'precio']
-['pues', 'asi', 'viendo', 'luis', 'videgaray', 'tan', 'pelon']
-['asi', 'gusto', 'bonito']
-['mejores', 'tazitas', 'vida', 'caballitos', 'tlaque']
-['importante', 'salud']
-['dijo', 'esposo', 'merceria', 'hidalgo', 'ves', 'cosas', 'bien', 'bonitas', 'pintar']
-['eerta', 'cocina', 'siempre', 'funcionado']
-['consulta', 'virtual', 'fin', 'siempre', 'gusto', 'saludarle', 'esperandole', 'serio']
-['tiempo', 'libre', 'pongo', 'ver', 'videos', 'animales', 'quiero', 'ayura']
-['contestaste', 'sola', 'razon']
-['acuerdo', 'contigo', 'nico']
-['suerte', 'bonita', 'logres', 'conseguirlos', 'saludos', 'bebe']
-['pequeños', 'momentos', 'felicidad', 'apenas', 'duran', 'segundos']
-['igual', 'hermoso', 'dia']
-['mundo', 'twittero', 'desperte', 'listo', 'vivir', 'dia']
-['señor', 'toca', 'bien', 'bonito', 'apenas', 'traigo', 'pasaje']
-['buen', 'dia', 'dia', 'maravilloso']
-['empezando', 'dia', 'canciones', 'favoritas']
-['hoy', 'ando', 'buenas']
-['vida', 'cosas', 'mensajes']
-['dianas', 'gracias', 'bella']
-['saboreando', 'hamburguesa', 'pienso', 'comer', 'gorda']
-['pagare', 'maleta', 'extra', 'nuevos', 'momentos', 'juntos']
-['ser', 'fan', 'juan', 'siempre', 'supe', 'fuerza', 'naturaleza', 'hoy', 'escuche', 'querida', 'dio', 'ternura', 'enorme']
-['hoy', 'toco', 'visitar', 'mama', 'descanso', 'eterno', 'contare', 'vivo', 'siempre', 'mejor', 'amiga', 'igual']
-['amo', 'escritorio', 'foto', 'juntos', 'aparte', 'cuarto', 'cuadro']
-['hermoso']
-['endulzarme', 'poquito']
-['planta', 'tamarindo', 'afuera', 'posiblemente', 'ser', 'casa', 'vivas', 'vez', 'buena', 'señal']
-['feliz', 'aprovechando', 'puedo', 'gracias', 'deseos', 'buena', 'vibra', 'abrazote', 'distancia']
-['buen', 'tip', 'gracias']
-['perfecto']
-['nuevo']
-['ven', 'diganle', 'pudraa', 'veo', 'voy', 'gritar', 'enfada', 'putaaaa', 'buenos', 'mundo', 'dias', 'amaneci', 'feliz']
-['doy', 'sincero', 'quisiera', 'salir', 'casa', 'busqueda', 'felicidad', 'refiero', 'buscarte', 'aunque', 'sepa']
-['optimismo', 'admirable']
-['dias', 'hacen', 'reir', 'ocurrencias', 'reportajes', 'sigan', 'asi', 'recontra', 'aburrido', 'kisses']
-['espero', 'mejores']
-['buena', 'pela', 'buen', 'elenco']
-['espero', 'mejores']
-['amor', 'incondicional', 'clase', 'sentimiento', 'busca', 'felicidad', 'ser', 'incluso', 'costa', 'familia', 'ama']
-['fin', 'muchas', 'gracias', 'cariño', 'buena', 'onda', 'tiempo', 'corto', 'repetira', 'visita']
-['ahora', 'sonando', 'excelente']
-['hermoso']
-['mori', 'dio']
-['hola', 'aplicacion', 'ver', 'series', 'bien', 'completa', 'incluso', 'estreno']
-['siempre', 'dicho', 'relacion', 'papa', 'bonita', 'siempre', 'solo']
-['sorprende', 'ver', 'mejoras', 'dia', 'llena', 'felicidad', 'tranquilidad', 'verte', 'pronto', 'posible']
-['abrazo', 'sororoso', 'encontraremos']
-['siempre', 'sido', 'gran', 'poeta', 'siempre', 'dije', 'siempre', 'pense', 'sigo', 'emocionada', 'tiempos', 'cambiando']
-['bien', 'dios', 'enemigo', 'pone', 'incapie', 'camino', 'miedo', 'dios']
-['nivel', 'ingles', 'sra', 'alto', 'traduzca', 'juguete', 'toy', 'uselo', 'oracion', 'toy', 'triste', 'awww', 'vengache', 'aca']
-['dios', 'guarda', 'mejor', 'siempre', 'perdurara', 'eternidad', 'busca', 'encuentra', 'conforma']
-['cosas', 'hecho', 'tan', 'feliz', 'dias', 'darme', 'cuenta', 'ape', 'pink', 'marble', 'devendra']
-['feliz', 'sabado', 'tbm', 'tiempos', 'entro', 'twitter', 'agradable', 'primera', 'persona', 'vea']
-['sinceramente', 'nunca', 'considere', 'belieber', 'idolo', 'encanta', 'artista', 'toooodas', 'canciones']
-['bien', 'rafael', 'ahead', 'rscuches', 'minusvalidos', 'mentales', 'red', 'climper', 'elmer', 'haran', 'buen', 'equipo']
-['hoy', 'mejore', 'poquito', 'alguien', 'hace', 'deporte', 'hace', 'año', 'hacer', 'luego', 'semana', 'empezar', 'bien', 'creo']
-['lei', 'pense', 'quisiera', 'ser', 'hormiguita', 'trepar', 'balcon', 'decirte', 'oido', 'guapo', 'bonito']
-['digo', 'gordo', 'pensaba', 'irme', 'cancelaron', 'ultima', 'hora', 'dice', 'tomara', 'taxi', 'amo']
-['ven', 'aca', 'abrazo', 'fuerte', 'fisicamente', 'haria', 'mal']
-['pos', 'igual', 'queria', 'verte', 'cantar', 'lindo', 'pos', 'creo', 'cosas', 'genial']
-['bien', 'ahi', 'alguien', 'espero', 'corazon', 'grave']
-['sigamos', 'siendo', 'felices', 'felices', 'felices']
-['amoooooo', 'csm', 'fi', 'verdad', 'unica', 'soporto', 'amigas', 'sabes']
-['veo', 'bonito']
-['mama', 'quedo', 'casa', 'acompañandolos', 'bueno', 'quiere', 'ver', 'gisela', 'desees', 'madre']
-['leeejos', 'mejor', 'pelicula', 'comercial', 'lanzado', 'hoy', 'decir']
-['pasala', 'bien', 'seres', 'queridos', 'exitos', 'propongas', 'exitos', 'puede']
-['nueva', 'aventura', 'aprendiendo', 'aprender', 'area', 'educacion', 'fisica', 'enfoque', 'competencias']
-['increible', 'historias', 'siempre', 'recibir', 'favores', 'mismo', 'lugar', 'dar', 'unico', 'instituto']
-['puedo', 'creer', 'horas', 'egresada', 'años', 'carreras', 'estudios', 'europa', 'excelente', 'trabajo', 'gracias', 'dios']
-['gusta', 'creativo', 'aqui', 'aportes', 'cabildeape', 'desregulape', 'sinconsultape', 'integrales']
-['saludo', 'jonasito', 'calentando', 'voz', 'entonar', 'feliz', 'wagner']
-['viene', 'bueno']
-['canal', 'suscriptor', 'antiguo']
-['ayer', 'profe', 'ubico', 'genial', 'hablar', 'proyectos', 'verdad', 'encontramos', 'personas', 'motivan']
-['bebe', 'primero', 'reniega', 'hambre', 'comio', 'llena', 'linda']
-['amigos', 'dices', 'triste', 'planeando', 'salidas', 'viajes', 'futuro', 'quiero']
-['genial', 'cotizando', 'organos', 'cierto', 'voy', 'queda', 'sentenciado']
-['lindo', 'verte', 'llevando', 'alegria', 'familias', 'niños', 'fiestas', 'espero', 'pases', 'lindo', 'amiga', 'deseo', 'mejor']
-['sigamos', 'siendo', 'felices', 'felices', 'felices']
-['salir', 'temprano', 'puedo', 'almorzar', 'casa', 'comida', 'verdad']
-['principio', 'dolio', 'corazon', 'azul', 'luego', 'recorde', 'bandera', 'paso']
-['bonito', 'entrar', 'correo', 'empresas', 'tiempo', 'confirmen', 'fuerte', 'auspicio']
-['sentimiento', 'sensacion', 'hermosa', 'disfruto', 'segundo', 'segundo', 'ganas', 'enormes', 'abrazarte', 'morbo', 'solo', 'tan', 'puro']
-['igual', 'recuerdo', 'siempre', 'apoyando', 'pesar', 'distancia', 'siempre', 'aqui']
-['bonito', 'postular', 'ceup', 'hacer', 'cosas', 'nunca', 'pense', 'podia', 'tiempo', 'hecho', 'enseño', 'organizarme']
-['fin', 'rio', 'despues', 'ayer', 'pense', 'iba', 'deprimir', 'hoy', 'feliz']
-['mejor', 'regalo', 'hoy', 'aparte', 'comida', 'gano']
-['dias', 'pasan', 'salida', 'tan', 'genial', 'lado', 'maximo', 'mejor', 'pasado', 'año']
-['vez', 'escucho', 'instituciones', 'sui', 'piel', 'hermosa', 'acuerdo']
-['feliz', 'salvadas', 'publico', 'salvada', 'jurado', 'canta', 'dms', 'bien', 'veo', 'solista', 'aimee']
-['siempre', 'esperando', 'rap', 'radio', 'media', 'noche', 'radio', 'filarmonia', 'yeahh']
-['cariño', 'seguidores', 'ser', 'tan', 'buena', 'ser', 'simplemente']
-['creo', 'ambos', 'seguimos', 'leyendo', 'pues', 'bueno', 'espero', 'bien', 'poder', 'conversar', 'momento', 'exitos', 'vibras']
-['vere', 'peliii', 'exitos']
-['gusto', 'buscamos', 'personas', 'guste', 'interpretacion', 'cosplay', 'gracias']
-['gran', 'ejemplo', 'seguir', 'inspiradora', 'eeriencia', 'agilista', 'empresario']
-['uuuuy', 'feliz', 'quiero', 'verte', 'ultimas', 'vacaciones']
-['aqui', 'buen', 'amigo', 'carl', 'pelicula', 'maximo']
-['viendo', 'hecho', 'sorpresas', 'cine', 'peruano', 'nueva', 'sangre', 'renovar', 'filmografia', 'nacional']
-['feliz', 'nuevo', 'nacimiento', 'infinito', 'presencia', 'aqui', 'abrazo', 'enorme']
-['fin', 'inauguro', 'nuevo', 'estacionamiento', 'parque', 'gratis', 'fin', 'año', 'probarlo']
-['rajado', 'hombre', 'halaga', 'compro', 'solito']
-['amo', 'supieras']
-['creo', 'jodido', 'pasado', 'lista', 'venga', 'jodidamente', 'bien']
-['duda', 'sido', 'semana', 'larga', 'mundo', 'vez', 'sido', 'bellas']
-['feliz', 'tener', 'conmigo', 'hermosa', 'familia', 'dios', 'cuide', 'bendiga', 'siempre']
-['tal', 'mama', 'madre', 'veeeeeces', 'cansada', 'prepara', 'caliente', 'igual', 'linda']
-['bella', 'gracias', 'hacer', 'dia', 'hermoso', 'sonrisa', 'forma', 'ser']
-['acuerdan', 'line', 'buena']
-['miercoles', 'lindos', 'quedarme', 'casa', 'parece', 'lujo']
-['asi', 'saludo', 'vida', 'mejor', 'buen', 'vino', 'buen', 'cafe']
-['fantastico', 'dia', 'caeli']
-['hola', 'feliz', 'cumplee', 'pasala', 'genial', 'lado', 'familia', 'amigos', 'espero', 'respondas', 'pronto']
-['siento', 'orgullosa', 'ser', 'fan', 'hace', 'años', 'speach', 'dijo', 'sigo', 'admirando']
-['apunto', 'feliz', 'pueden', 'creer']
-['feliz', 'dia', 'amigos', 'musicos', 'musicos', 'general', 'bonito']
-['buenos', 'dias', 'amigos', 'sonrisa', 'esperanza', 'avanza', 'actitud', 'fe']
-['aprender', 'usar', 'protector', 'insolacion', 'bueno', 'diverti', 'paseando', 'segunda', 'familia']
-['solo', 'emociona', 'primera', 'etapa']
-['paso', 'jugar', 'fifa', 'play', 'coronas', 'vienen', 'mejores', 'dias']
-['feliz', 'chicas', 'crecido', 'industria', 'feliz', 'amo', 'corazon']
-['agua', 'momento', 'final', 'llegamos', 'mezclarnos', 'sentimiento', 'mutuo']
-['hecho', 'logrado', 'valoras', 'esfuerzo', 'bien', 'envidiable']
-['abriendo', 'amas', 'guao', 'esperando', 'queen']
-['bien', 'sra', 'presidenta', 'predica', 'ejm', 'bien']
-['realmente', 'gran', 'trabajo', 'espero', 'sepa', 'apreciamos']
-['buen', 'oral', 'encantaria', 'sentir', 'boquita', 'recorrer', 'erecto']
-['buen', 'duo', 'manolo', 'cuatro', 'linda', 'cancion', 'mar', 'copas', 'vida']
-['linda', 'grande', 'holly']
-['ricardo', 'arjona', 'increible', 'katii', 'alegras', 'noches', 'buen', 'humor', 'tkm']
-['necesito', 'junto', 'familia', 'eternamente', 'agradecida']
-['nunca', 'esperes', 'bueno', 'nadie', 'bonito', 'vivir', 'asi']
-['poner', 'bases', 'partido', 'bueno', 'tiempos', 'naranjas']
-['trae', 'buenos', 'recuerdos']
-['encanta', 'noche', 'ic', 'unico', 'malo', 'puedo', 'salir', 'amigos', 'salen']
-['vaquero', 'caballo', 'imprimi', 'ise', 'recortable', 'niego', 'feliz', 'alcanzaba']
-['final', 'interesante']
-['gano', 'encanta', 'canciones']
-['espero', 'pasado', 'lindo']
-['corazon', 'oro', 'aparte', 'unico', 'nunca', 'podrian', 'crear', 'igual']
-['bailaste', 'hermoso', 'gracias', 'apoyo']
-['definitivamente', 'mejor', 'decision', 'sabado', 'sido', 'quedarme', 'casa', 'abuelos', 'prepararles', 'cena', 'conversar']
-['presente', 'invitado', 'puedes', 'vienes']
-['pizza', 'conversacion', 'amena', 'amigos', 'buena', 'noche']
-['domingo', 'ultimos', 'dias', 'elotado']
-['hoy', 'dia', 'genial', 'compartir', 'niños']
-['horas', 'javier', 'prado', 'libre']
-['caeli', 'pronto', 'vas', 'sentir', 'mejor']
-['alegria', 'bueno', 'alegra', 'escuchar', 'leer']
-['mejor', 'ver', 'estreno', 'mejor', 'compañia']
-['bien', 'yuriko']
-['hermoso', 'recuerdo', 'junto', 'ustedes']
-['genial', 'incomunicada', 'desconectada', 'mundo', 'veces']
-['guapo', 'quedo', 'chibolo', 'cara', 'pastrulo', 'pastrulo']
-['grandioso', 'conocer', 'personas', 'maravillosas', 'ustedes', 'quedan', 'corazon', 'conocen']
-['descanses', 'bien', 'yuya', 'abrazo', 'inmenso', 'distancia']
-['cocinare', 'cena', 'familiar', 'cilindrada']
-['hora', 'seguir', 'soñando', 'bonito']
-['buena', 'pelicula', 'pone', 'regreso', 'galaxia', 'lejana', 'emocionante', 'intensa', 'final']
-['congratulations', 'orgullo', 'peruano', 'dios', 'gobernar', 'congreso', 'manchado']
-['viendo', 'gran', 'lindo']
-['quiero', 'ver', 'segunda']
-['buenos', 'videos', 'llegadas', 'subs', 'sigue', 'cuidate', 'v']
-['mes', 'favorito', 'año', 'diciembre']
-['disfrutando', 'dias', 'previos']
-['feliz', 'santidad', 'saludo', 'esperamos', 'pronta', 'visita']
-['talento', 'componer', 'canciones', 'terminas', 'letra', 'pasas', 'gustaria', 'escucharla']
-['parecer', 'daran', 'canasta', 'navideña', 'aparte', 'paneton', 'vino', 'proveedores', 'engrien', 'jefes']
-['pude', 'ver', 'abdiel', 'tan', 'lindo', 'hara']
-['viendo', 'the', 'man', 'doramas', 'dejado', 'enganchada', 'historia']
-['rico', 'pavito', 'hecho', 'casa', 'santas', 'manos', 'abuela']
-['duda', 'voz', 'melodiosa', 'ser', 'humano', 'podria', 'encantar']
-['mejor', 'cover', 'realidad', 'hermoso', 'voz']
-['almenos', 'vivo', 'engañada']
-['ayer', 'primera', 'clase', 'yoga', 'amaneci', 'demasiado', 'feliz', 'hace', 'ejercicio']
-['ahora', 'quiero', 'llorar', 'termino', 'ahora', 'u', 'tercera', 'carrera']
-['bonito', 'sentir', 'aqui', 'junto']
-['felicitaciones', 'usted', 'señor', 'presidente', 'mensaje', 'bueno', 'firme', 'directo', 'familia', 'mandamos']
-['improvisadamente', 'bueno']
-['buena', 'eleccion', 'gracias', 'empujarme', 'verla', 'saquen']
-['linda', 'feliz', 'disfruta', 'celebra', 'salvador']
-['igual', 'feliz']
-['hoy', 'dia', 'hoy', 'cumplo', 'años', 'mejor', 'persona', 'vida', 'pudo', 'darme']
-['feliz', 'cuenta', 'maravillosa']
-['amigos', 'pavo', 'huele', 'buenazo', 'preguntando', 'ra', 'vez', 'hacemos']
-['costillitas', 'ven', 'demasiado', 'buenas', 'quiero', 'cenar']
-['inconveniente', 'excelente', 'servicio', 'maximo', 'felices', 'fiestas', 'navideñas']
-['jamas', 'pense', 'momento', 'tocara', 'dar', 'obsequios', 'amo', 'tan', 'gratificante', 'sonrisas', 'valieron']
-['lindo', 'agradable', 'detalle', 'conoces']
-['guerra', 'mejor', 'reality']
-['mejor', 'pasar', 'ocho', 'horas', 'dia', 'sonreir']
-['pueblo', 'crema', 'feliz', 'vento']
-['video', 'campaña', 'año', 'juego', 'bueno']
-['putisimo', 'amo', 'v']
-['ahora', 'bonito']
-['acampar', 'actividades', 'favoritas', 'mundo', 'mundial']
-['acabo', 'ver', 'aldo', 'plaza', 'chico', 'unico', 'voy', 'extrañar', 'trabajo']
-['bonita', 'tarde', 'noche', 'regalos']
-['mayor', 'edad', 'viejo', 'deje', 'tomar', 'adultos', 'jajajajajajajaja']
-['buen', 'momento', 'familia']
-['bolso', 'comprado', 'hermosooo', 'quiero', 'quedar']
-['porno', 'motivacion', 'pueden', 'prohibir']
-['carga', 'mejor', 'relajas']
-['buenos', 'dias', 'noche', 'noche', 'buena', 'feliz']
-['increible', 'ahora', 'entro', 'solo', 'trabajo']
-['hare', 'escuchar', 'mejores', 'frases']
-['feliz', 'felino', 'abrazos', 'familia']
-['pase', 'junto', 'mama', 'conocio', 'persona']
-['demasiado', 'buena', 'nota', 'adolescencia', 'comerciales', 'series', 'edicion', 'navideña']
-['demasiado', 'buena', 'nota', 'revivi', 'niñez', 'adolescencia', 'comerciales', 'series', 'edicion', 'navideña']
-['have', 'fun', 'antu', 'mejores', 'deseos']
-['dia', 'lleno', 'magia', 'lindos', 'momentos']
-['lindo', 'dia', 'hoy']
-['dormir', 'quiero', 'decir', 'linda', 'feliz', 'buenas', 'noches']
-['feliz', 'vivi', 'pasado', 'bonito', 'seres', 'queridos']
-['buena', 'fotito', 'abrazo', 'hacen', 'buen', 'programa']
-['hoy', 'pasaremos', 'hermosa', 'tarde']
-['amigos', 'acabo', 'comer', 'relleno', 'cosa', 'deliciosa', 'mundo', 'mundial']
-['ustedes', 'siempre', 'sido', 'bonito', 'año', 'anita', 'amaya']
-['ser', 'villano', 'pelicula', 'mejor']
-['acaba', 'buen', 'año', 'empezar', 'mejor', 'siempre', 'bendicion', 'dios']
-['ultimo', 'dia', 'trabajo', 'fin']
-['reviente', 'mal', 'tiempo', 'buena', 'cara', 'hace', 'felicidad']
-['quiero', 'preciso', 'sincero', 'decir', 'año', 'termina', 'mal']
-['buenazos', 'medio', 'gruesitos', 'cortados', 'forma', 'vertical']
-['siempre', 'junto', 'espero', 'verte', 'solista']
-['sido', 'año', 'viajado', 'conocido', 'personas', 'excelentes']
-['recien', 'levanto', 'dia', 'bonito', 'sol']
-['lindo', 'saberte', 'abrazote', 'feluz']
-['encuentras', 'formas', 'pon', 'piscinas', 'empotradas', 'enterradas']
-['hermano', 'templadaso', 'hace', 'tan', 'lindo']
-['probado', 'pisco', 'buenazo', 'tmb']
-['seguro', 'salir', 'bien', 'suerte', 'viejita']
-['hoy', 'actuacion', 'extremadamente', 'feliz']
-['amo', 'vestidos', 'largos', 'enterizos']
-['medias', 'tan', 'lindas']
-['hoy', 'mama', 'sentimiento', 'encontrado', 'querer', 'corriendo', 'abrazarla', 'comer', 'rico', 'reirnos']
-['bueno', 'mire', 'tele', 'series', 'veiamos', 'viejo', 'aun', 'hacemos', 'vez']
-['hamo', 'juerte', 'guachita']
-['lindo', 'buzo', 'cierto']
-['mirare', 'programa', 'completo', 'gracias', 'encanto', 'escribiste', 'foto', 'gracias']
-['hermosos', 'hoy', 'cris', 'vez', 'final', 'años', 'sido', 'ganador', 'mejor']
-['depende', 'ayuda', 'buena', 'pasa', 'pasar', 'vida', 'depender', 'unicamente', 'vos']
-['bien', 'vez', 'salgo', 'gente', 'saluda', 'dia', 'sali', 'impresionante']
-['votaba', 'observado', 'adentro', 'voto', 'gente', 'bueno']
-['tarde', 'peque']
-['mereces', 'claro', 'trata', 'superar', 'firme', 'mami', 'van', 'llegar', 'buenas']
-['persona', 'sabado', 'domingo', 'queda', 'dormida', 'tarde', 'jajajja', 'v']
-['gustaria', 'volver', 'sentir', 'miras', 'sentirse', 'unica', 'persona', 'vida', 'rozar', 'cuerpo', 'preocupacion', 'alguna', 'ver']
-['botella', 'agua', 'fav', 'gracias', 'ser', 'tan', 'linda', 'conmigo', 'siempre', 'apoyarme', 'mereces', 'mejor', 'amo', 'extraño']
-['hermoso', 'solsito']
-['creemos', 'real', 'sociedad', 'cientificos', 'bueno', 'real', 'acuerdo', 'dices']
-['bien', 'hablo', 'penarol', 'viste', 'ganamos', 'campeon', 'argentina', 'ganamos', 'copa', 'rio', 'plata']
-['direectv', 'momentos', 'lindos']
-['amo', 'letras', 'halla', 'aca', 'buenas', 'ahi', 'siempre', 'vos', 'vos', 'conmigo', 'bombonazo']
-['bien', 'ganaron', 'perdieron', 'goleada', 'ganaron', 'penales', 'queria', 'bien', 'ustedes']
-['gusta', 'primera', 'ves', 'revista', 'national', 'geographic', 'años', 'besos', 'bella']
-['mejores', 'abrazos', 'dudas']
-['tener', 'hijo', 'grande', 'ventaja', 'podes', 'mandar', 'sociedad', 'buscarte', 'remedios', 'cco']
-['arctic', 'monkeys', 'bueno', 'icon', 'hice', 'hace', 'años', 'uso', 'año', 'pasado']
-['loco', 'sabado', 'pensando', 'divino', 'hermano', 'vanesa', 'britos', 'queria', 'uma', 'foto']
-['mejor', 'vos', 'fanatico', 'azulgrana', 'mereces', 'sos', 'tan', 'zafaste', 'clasico']
-['hace', 'noches', 'encanto', 'aunq', 'diferente', 'habitual', 'llore', 'final']
-['buenos', 'dias', 'canal', 'asi', 'hoy', 'grabar', 'reaccion', 'llegando', 'pasen']
-['gorditoo', 'lleno', 'sentimientos']
-['tranquila', 'vas', 'superar', 'solo', 'tristes', 'dias', 'desahogate', 'llora', 'hables', 'nadie', 'solo', 'sacalo', 'pronto', 'bien']
-['buen', 'diaaaa', 'hoy', 'voy', 'tarde', 'trabajo', 'porq', 'ayer', 'quede', 'media', 'hora', 'salir']
-['flor', 'lindo', 'escribiste', 'fijado', 'espero', 'abraces', 'linda', 'cuenta']
-['hoy', 'dia', 'meses', 'mañana', 'paso', 'fotos', 'actuales', 'zorro', 'adorable', 'llego', 'vida', 'momento', 'justo', 'adoro']
-['compitas', 'nadie', 'demostrarle', 'nadie', 'llegar', 'llego', 'solo', 'superar', 'propios', 'limites']
-['tenes', 'razon', 'jjaaa']
-['doy', 'espectaculares']
-['tierna', 'justo', 'veia', 'cosas', 'pase', 'genial', 'dia', 'voy', 'genial', 'verte']
-['lindo', 'voy', 'feria', 'hoy', 'unico', 'compre', 'paltas', 'mangos']
-['buenos', 'dias']
-['leyendo', 'fin', 'tiempos', 'escuchandi', 'mumford', 'perfecto']
-['tqm', 'tas', 'grande', 'linda', 'besos', 'hermanos']
-['puedo', 'creer', 'llendo', 'hora', 'sola', 'liceo', 'nono', 'onda', 'voy', 'mejor', 'podia', 'ser']
-['buen', 'dia']
-['buen', 'dia', 'excelente', 'veo', 'hoy']
-['recien', 'llegue', 'gym', 'volando', 'asi', 'veo', 'duchaso', 'listo']
-['plan', 'familia', 'despues', 'linda', 'recorrida', 'argentina', 'volvimos', 'nuevos', 'contentos', 'viajar', 'tocar', 'maximo']
-['buen', 'dia', 'conductor', 'televisivo', 'numero', 'america', 'amo', 'corazon', 'veo', 'luego', 'hs']
-['lindo', 'casa', 'entro', 'podia', 'salir', 'dio', 'vidrio', 'agarre', 'sacarlo', 'super', 'suavesitos']
-['gracias', 'sandra', 'ayuda', 'esperamos', 'utiles', 'anita', 'seguimos', 'contacto']
-['buenos', 'dias', 'papa', 'adoro', 'fuerzas', 'excelente', 'martes']
-['lindas', 'super', 'apurando', 'tocandole', 'patas', 'traseras', 'tomaron', 'tiempo', 'apuras']
-['aunque', 'hablemos', 'olvide', 'bouer', 'espero', 'pasado', 'mejor']
-['segundo', 'amor', 'rampla', 'equipo', 'papa', 'querido', 'gte', 'barrio', 'obreros', 'flia']
-['amiga', 'necesita', 'lectores', 'fic', 'link', 'link', 'fijado']
-['solo', 'amo', 'viejo', 'descanses', 'dormir', 'gustaria', 'soñar', 'vos']
-['recien', 'grabado', 'nuevo', 'video', 'ahora', 'entrenar', 'horita', 'luego', 'baño', 'pongo', 'editar']
-['lindo']
-['circuitos', 'escrutados', 'colombia', 'abstencion', 'gana']
-['responsable', 'profesional', 'ademas', 'bien', 'estilo', 'club', 'garra']
-['trabajo', 'feriado']
-['feliz', 'cumple', 'sofi', 'justo', 'hoy', 'toco', 'canal', 'pases', 'bomba', 'beso', 'grande']
-['lindo', 'escuchar', 'comprometida', 'trabajo', 'proyectos', 'freelance']
-['bon', 'buen', 'dia']
-['increible', 'aca', 'melo', 'grandes', 'voy', 'cholulear', 'pedir', 'foto']
-['tarde', 'bendiciones', 'mimosos']
-['buen', 'dia', 'excelente', 'jornada', 'veo', 'hoy', 'noche']
-['buen', 'dia', 'excelente', 'fin', 'semana', 'buen', 'descanso', 'merecedor']
-['buen', 'dia', 'amores', 'liceo', 'sisisiiis', 'tremenda', 'bobita', 'amo']
-['hola', 'hermosa', 'espero', 'bien', 'voy', 'hacer', 'noni', 'cansado', 'beso', 'divinaaa']
-['queridisimo', 'buenisimos', 'charla', 'escuche', 'tarde', 'sonrei']
-['dormir', 'mañana', 'pilotar', 'nave', 'vez', 'linda', 'noche']
-['mejor', 'duda', 'alguna']
-['espero', 'ido', 'lindo']
-['ubico', 'gracias', 'idea', 'llamaba', 'zona', 'acabo', 'aprender', 'nuevo']
-['gracias', 'vos', 'buena', 'onda', 'sumarte', 'gifs', 'iniciativa']
-['compartir', 'hermosas', 'fotos']
-['importante', 'hombres', 'tamb', 'caso', 'suman', 'campaña', 'violencia']
-['hambre', 'tonelada', 'comida', 'cocina', 'mama', 'fines', 'semana']
-['correcto', 'bien', 'vos', 'seguir', 'asi', 'meter', 'asadito']
-['asi', 'perdonada']
-['simplemente', 'lesion', 'talon', 'hacer', 'recuperacion', 'igual', 'bien']
-['nueva', 'mejor', 'amiga', 'llama', 'alegrando', 'finde', 'casualidad', 'dia', 'despedida', 'soltero']
-['ñery', 'siempre', 'solo', 'vos', 'confianza', 'darte', 'cuenta']
-['lindo', 'hoy', 'azul', 'vez', 'dije', 'vos', 'sos', 'madrastra', 'perfecta', 'bella', 'mujer']
-['mañana', 'visitar', 'primita', 'hermosaaaaa']
-['networking', 'creacion', 'contactos', 'siempre', 'ayuda', 'futuras', 'oportunidades', 'negocio', 'trabajo']
-['hermana', 'mejor', 'usteedes']
-['agustin', 'marco', 'vida', 'cambio', 'completo', 'voy', 'olvidar', 'nunca', 'gracias']
-['cites', 'tw', 'sabes', 'entrar', 'perfil', 'ver']
-['toy', 'enamoradaaaaaaaa', 'ovy', 'hacer', 'amor', 'dar', 'novio', 'dormido', 'ven']
-['papa', 'voy', 'dormir', 'siesta', 'asi', 'despues', 'veo', 'noche', 'nieta', 'cama', 'despatarrada']
-['encuentres', 'menos', 'agarrado', 'familia', 'amor']
-['hermoso', 'agradecido']
-['disfrutando', 'ahora', 'esperando', 'empiece', 'tve', 'internacional']
-['vivir', 'dos', 'hombres', 'acondicionador', 'dura']
-['excelente', 'axel', 'contando', 'termina', 'delincuentes', 'futbol', 'repiten', 'programa', 'grabar', 'amplificar']
-['jajajajja', 'nombre', 'dio', 'ganas', 'escribir', 'asi', 'pq', 'mejor', 'vossssss']
-['divertido', 'humor', 'espontaneidad', 'talentosos', 'vecina', 'orilla']
-['enere', 'sociologia', 'jajajja', 'ser', 'unica', 'profesorado', 'seguro', 'feli']
-['daria', 'darle', 'abrazo', 'vieja']
-['llegamos', 'seguidores', 'acompañarnos', 'camino', 'trabajo', 'independiente', 'sigamos', 'creciendo', 'juntos']
-['trasladarte', 'coche', 'chofer', 'tener', 'ganar', 'excelente', 'sueldo', 'ayuda']
-['excelente', 'idea', 'menos', 'pudieran', 'hablar', 'hora']
-['verdaderos', 'hinchas', 'perjudicamos', 'club', 'insultamos', 'adversarios', 'alentamos']
-['linda', 'vos', 'iguaal', 'bebita', 'pasaa', 'user', 'apellido', 'axel', 'celeste']
-['banco', 'enojado', 'contigo', 'ahi', 'quierooooooo']
-['terminas', 'dia', 'pensando', 'bien', 'salio', 'dias', 'asi']
-['andar', 'siempre', 'limpito', 'arregladito', 'dudas']
-['papa', 'contento', 'voy', 'hacer', 'curso', 'produccion', 'televisiva', 'dictaran', 'besos']
-['hoy', 'pasamos', 'lindo', 'chicas', 'jugamos', 'cartas', 'tarde', 'morimos', 'risa']
-['hola', 'maria', 'helena', 'gracias', 'amiga', 'mañana', 'iniciamos', 'gusto', 'info', 'aqui', 'abrazo', 'grande']
-['hola', 'trabajando', 'sumar', 'opciones', 'podes', 'recomendarnos', 'restaurantes']
-['manteniendo', 'ocupado']
-['feliz', 'cumple', 'sara', 'pases', 'lindo']
-['justo', 'comi', 'tremendo', 'bueno', 'pasame', 'dir', 'interno']
-['lindo', 'veranooo', 'aca']
-['emocion', 'acabo', 'conocer', 'fenomeno', 'veterinario', 'lolo', 'preparate', 'consultas', 'cotidianas']
-['pequeños', 'detalles', 'crean', 'grandes', 'sentimientos']
-['disfrutar', 'hoy', 'ultimo', 'dia', 'cel']
-['ver', 'personas', 'alegran', 'aunque', 'solo', 'minutos']
-['buenas', 'noches', 'descanses', 'dias', 'verte', 'prometo', 'vez', 'quedarme', 'final', 'programa', 'asi', 'conozco']
-['tampoco', 'vienen', 'vaso', 'incluido', 'costo', 'efectivo']
-['lindo', 'dia']
-['pronto', 'cucha', 'despejada']
-['caminar', 'solo', 'bueno', 'salud', 'sino', 'tmb', 'bolsillo']
-['copas', 'mundo', 'olimpiadas', 'copas', 'americas']
-['gustaria', 'aca', 'fav', 'corazon', 'asi', 'podria', 'usar', 'pura', 'exclusivamente', 'ponen', 'foto', 'comida']
-['enamorarse', 'persona', 'dias', 'amor']
-['duermo', 'mejores', 'hoy', 'mañana', 'juega', 'bolso', 'falta', 'nomas']
-['happy', 'birthday', 'adorable', 'feliz', 'adorable']
-['personas', 'nena', 'pasa', 'aunque', 'conozcamos', 'aqui', 'presente']
-['chula', 'vez', 'mejor']
-['nena', 'hermoso', 'dia', 'feliz', 'cumple', 'años', 'dios', 'quiere']
-['capitulito', 'gilmore', 'medida', 'perfecta', 'esperar', 'masa', 'crezca']
-['gloria', 'padre', 'jesuscrisro', 'cobmigo', 'camino']
-['tierno', 'niño', 'amoroso']
-['andas', 'moni', 'hermoso', 'hoy']
-['importante', 'compromiso', 'comunidad', 'buena', 'señal']
-['grande', 'guiri', 'multitud']
-['encantaria', 'abrazarla', 'amigaa', 'ahora', 'decirle', 'bien']
-['dejas', 'poquito', 'contenta', 'gracias']
-['bien', 'parcial', 'solo', 'faltan']
-['grande', 'lucho', 'vamo', 'arriba', 'enorme', 'legado', 'dejan', 'futbol', 'uruguayo', 'gracias']
-['avisaron', 'dia', 'aca', 'creo', 'bueno', 'tenerlo', 'jjijij']
-['hoy', 'dia', 'perfecto', 'caminando', 'calle', 'mientras', 'ofreces', 'caramelos', 'niños', 'chicos']
-['buen', 'dia', 'soleee', 'llegue', 'temprano', 'trabajo', 'semana', 'asi', 'ta', 'hago', 'esfuerzo']
-['interesante', 'iniciativa', 'ahora', 'podemos', 'hacerlo', 'aqui', 'twitter']
-['demorados', 'proceso', 'llegaran', 'preocupen']
-['armar', 'buen', 'equipo', 'espectacular', 'propuesta', 'cuenta', 'proximas', 'actualizaciones']
-['necesito', 'tortas', 'fritas', 'suegraaa']
-['amo', 'saber', 'segundo', 'homenaje', 'infancia', 'feliz']
-['buen', 'dia', 'papa', 'amo']
-['juro', 'pienso', 'glenn', 'sigue', 'vivo', 'aquella', 'vez', 'abraham', 'bien']
-['feliz', 'cumple', 'hermoso', 'dia', 'dias', 'vida']
-['gusta', 'sacarle', 'sonrisa', 'siempre', 'saca', 'solo', 'lagrimas']
-['pelada', 'estudios', 'dicen', 'hace', 'alto', 'fuerte', 'seguro', 'joven']
-['vos', 'cuidate']
-['nno', 'perdon', 'mejor', 'dormi', 'hacer', 'bien', 'comete', 'bananita']
-['mejores', 'valemos']
-['felicitaciones', 'necesitaba']
-['bien', 'vos', 'ando', 'ganas', 'dulce']
-['empezo', 'llover', 'puse', 'cantar', 'cancion']
-['solo', 'falta', 'siga', 'argentina', 'sigue']
-['cine', 'iran', 'mejores', 'mundo']
-['hoy', 'entro', 'poquito', 'tarde', 'trabajar']
-['voy', 'espoliar', 'ahr', 'unico', 'voy', 'decir', 'bonita', 'divertida', 'mensaje']
-['verdad', 'encanto', 'placer', 'presente', 'ayudar']
-['falta', 'cumple', 'cami', 'extraño']
-['lindo', 'mundo', 'profe', 'aue', 'lindo', 'nostalgias']
-['grupo', 'perfecto', 'chicas', 'ser', 'ibfs', 'grupales']
-['lindo', 'agarrarle', 'auto', 'permiso', 'salir', 'andar']
-['aparte', 'siguen', 'personas', 'importantes']
-['niña', 'feliz', 'cumple', 'pases', 'lindo']
-['segundos', 'igualmente']
-['diciembre', 'primer', 'sesion', 'luego', 'enero', 'necesito', 'hacer', 'pleno']
-['ahhhh', 'genial', 'esytoy', 'viajeeeeee', 'beso', 'suerte']
-['voy', 'extrañar', 'aquellas', 'charlas', 'infinitas']
-['hoy', 'luna', 'hermosa']
-['hola', 'nena', 'tiempo', 'cuento', 'feliz', 'puedo', 'hoy']
-['desperte', 'medio', 'mimoso', 'vos', 'duermo', 'salis', 'cabeza']
-['quieren', 'suba', 'links', 'videos', 'motivacionales', 'levantara', 'animo', 'examenes']
-['pippi', 'conte', 'nuevo', 'favorito', 'pendejo']
-['permanente', 'apoyo', 'programa']
-['buenooo', 'feliz', 'cumple', 'querida', 'zombies', 'usted']
-['toy', 'san', 'papa', 'vine', 'ver', 'amiga', 'recien', 'tamos', 'almorzando', 'tqm', 'veo', 'luego']
-['parte', 'parcial', 'fenix', 'suerte', 'clasifiquen', 'sudamericana']
-['luego', 'chicos', 'podrian', 'dar', 'clases', 'robotica', 'ños', 'grandes']
-['uruguayos', 'amables', 'nadie', 'intentado', 'echarme', 'auto', 'encima', 'ceda', 'paso', 'contrario', 'ceden', 'problema']
-['sorpresas', 'emocionan']
-['fracaso', 'condimento', 'sabor', 'exito', 'hermoso', 'comienzo']
-['determinar', 'temprano', 'hoy', 'gran', 'dia', 'lee']
-['grande', 'preciosa', 'bien', 'logrado']
-['tan', 'fuerte', 'nadie', 'pueda', 'herirte', 'tan', 'noble', 'nadie', 'pueda', 'ofenderte', 'tan', 'original', 'nadie', 'pueda', 'imitarte']
-['queres', 'saber', 'tiempo', 'segui', 'tipo', 'piola', 'buena', 'onda']
-['lindo', 'buen', 'dia']
-['pone', 'foto', 'seguro', 'recontra', 'buena']
-['lindo', 'dicho']
-['pronto', 'subiremos', 'convocatoria', 'lectores', 'formen', 'parte', 'preguntar', 'laurita']
-['trabajo', 'increible', 'esperamos', 'reciba', 'apoyo', 'esperamos', 'sorprenderla']
-['perdi', 'directo']
-['piensa', 'grande', 'hechos', 'creceran', 'piensa', 'puedes', 'podras', 'mental']
-['sigo', 'leo', 'hermoso', 'descanso', 'cuida', 'gracias']
-['feliz', 'lloviendo']
-['argentinos', 'lindos']
-['fuerzas', 'nena', 'lugar', 'maravilloso', 'vos', 'sola', 'momento', 'acompañarte']
-['when', 'sos', 'especial', 'despues', 'hagamos', 'skype']
-['noche', 'soñando', 'caballos', 'hermoso']
-['ganas', 'salir', 'caminar', 'quiero', 'verlas', 'extraño', 'ajajjajajaja']
-['pepi', 'encanto', 'sonora', 'fuegos', 'esperemos', 'volver', 'pronto', 'abrazo', 'grande', 'gracias']
-['necesitas', 'personas', 'ser', 'feliz', 'tan', 'solo', 'personas', 'reales', 'aprecian']
-['quiero', 'mariano', 'regalo']
-['nuevamente', 'pensamos', 'distinto', 'vez', 'solidarias', 'benefician', 'van', 'mano', 'contrarias']
-['gracias', 'gil', 'quieroo']
-['emmm', 'feliz']
-['arriba', 'entonces', 'perdido', 'buscas', 'salir', 'vas', 'ver']
-['descanses', 'papa', 'corazon', 'siempre', 'lindo', 'verte']
-['prado', 'gente', 'necesito']
-['pasando', 'tarde', 'hermosa', 'mercedes', 'mirando', 'ciudad', 'alto']
-['sigue', 'siendo', 'laico', 'preocupes']
-['dicen', 'escribio', 'grande', 'quiero', 'ser', 'vos']
-['ame', 'carlos', 'fuerte', 'fuerte', 'moto']
-['buena', 'pinta', 'buen', 'vinito']
-['gustarian', 'edits', 'asi', 'tratare', 'aprender', 'hacen', 'aprender', 'tecnicas', 'edicion', 'queen', 'sel']
-['buen', 'dia', 'papa', 'hermoso', 'lindo', 'domingo']
-['crees', 'exito', 'obtendras', 'confia', 'buenas', 'lluviosas', 'noches', 'byeee']
-['buena', 'peli', 'voy', 'mirar']
-['flaco', 'contento', 'cuanto', 'medis', 'vos', 'papa', 'descalzo']
-['descubrieron', 'bot', 'quieran', 'meter', 'avisenme', 'ayudo']
-['hola', 'bonita', 'gustaria', 'conocerte', 'saber']
-['hace', 'dos', 'minutos', 'vos', 'bailarin', 'hacer', 'aguadance', 'felicitaciones', 'segui', 'asi']
-['escucharle', 'voz', 'dormir', 'mejor']
-['quimica', 'aprobado', 'menos', 'suerte']
-['perfecto', 'gracias', 'dar', 'aviso', 'consultar', 'equipo', 'tecnologia']
-['encanta', 'reality', 'espectacular']
-['hola', 'comparti', 'video', 'grax', 'decir', 'sino', 'orgulloso', 'admitas', 'contento', 'saludame']
-['quiero', 'empezar', 'curso', 'dios', 'emocionada']
-['hoy', 'luna', 'hermosa', 'plena']
-['preferidos']
-['pasaste', 'happy', 'felicitaciones', 'amo']
-['descanses', 'lindo', 'programa', 'hoy']
-['abrazo', 'poema', 'escrito', 'piel']
-['ingenio', 'yorugua', 'divierto']
-['hace', 'feliz', 'ayudar', 'caelikers', 'conozca']
-['viejitas', 'mejor', 'apostas']
-['graciaas', 'vos', 'merecias', 'lindo', 'tener', 'compañera', 'vos']
-['amo', 'boluda', 'sabes', 'bien', 'metida', 'haces', 'reir']
-['extrañaba', 'ezee', 'perdido']
-['hola', 'sol', 'disculpas', 'recibiste', 'pedido', 'siempre', 'dudas', 'disponible', 'online']
-['gusta', 'vino', 'tinto', 'hace', 'años', 'respaldo', 'proyecto', 'modo', 'agradecimiento', 'mande', 'vino', 'uruguayo']
-['conozco', 'lugar', 'gico']
-['nota', 'queres', 'igual']
-['hoy', 'primera', 'vez', 'vida', 'trabajo', 'horas', 'tener', 'copado', 'tan', 'copado']
-['feliz', 'botija', 'bienvenida']
-['rodeados', 'belleza', 'solo', 'saber', 'mirar']
-['mejores', 'momentos', 'foto']
-['abrazo', 'viejo', 'decile', 'esperanza', 'ver', 'pelear', 'adelante']
-['dejaron', 'mensaje', 'diciendome', 'suerte']
-['meeee', 'encanta', 'saber', 'mañana', 'mañana', 'casa', 'sola', 'jee']
-['esperare', 'momento', 'primer', 'capitulo', 'dije', 'mateo', 'indicado', 'anita']
-['tenerme', 'ejemplo', 'seguir', 'sos', 'dulce']
-['encantada', 'web', 'ver', 'coordinamos', 'nota']
-['legal', 'alegro', 'gorda', 'perro', 'tenes', 'ver', 'nombre', 'alegro']
-['solo', 'dia', 'foda', 'sabelo', 'tamo', 'ahi', 'gracias']
-['necesitaba', 'juntada', 'asi', 'compañeros', 'pasar', 'lindo', 'rato']
-['gracias', 'verdad', 'sos', 'mejor']
-['buso', 'wanderers', 'enamorada']
-['hola', 'lenay', 'porfiii', 'mandame', 'saludame', 'proximo', 'video', 'mandame', 'besote', 'enorme', 'agradeceria']
-['dias', 'publicare', 'voten', 'quiero', 'muchoooo']
-['saber', 'pide', 'gente', 'cumplir', 'sueños', 'avanzar', 've']
-['hoy', 'lanzo', 'autos', 'autonomos', 'san', 'pasito', 'cerca', 'tremendo', 'cc']
-['obvio', 'quieran']
-['dije', 'mejor', 'serie', 'igual', 'sale', 'eneero']
-['mejores', 'libros', 'mejores', 'lectores']
-['comportamiento', 'casada', 'ahi', 'deos', 'quiero']
-['piensas', 'muchisimas', 'abrahamers', 'uruguayas', 'viajan', 'verte', 'brillar', 'ama']
-['saber', 'grandes', 'exitosos', 'pasan', 'grandes', 'pruebas', 'motiva']
-['sobrina', 'años', 'anda', 'copada']
-['horas', 'depues', 'recien', 'analizo', 'suerte', 'entendi', 'jajaaa']
-['siempre', 'querido', 'fan', 'asi']
-['descanse', 'sueñe', 'bonito', 'hermosa', 'luna']
-['vengan', 'gurices', 'juntabas', 'hace', 'mil', 'año', 'digan', 'volver', 'juntarse', 'lindo']
-['piques', 'primicias']
-['hermosa', 'edad', 'espero', 'disfrutando', 'traiga', 'fotos']
-['tremendo', 'cuerpo', 'nena']
-['increibles', 'fotos', 'lindas', 'verdad']
-['mejores', 'personas', 'conocido', 'vida']
-['separan', 'km', 'quieres', 'jajajajajajajajajajajajajaja', 'juro', 'chistos']
-['gracias', 'buena', 'onda', 'implicados']
-['futbol', 'hermoso', 'cdo', 'juntan', 'talentos']
-['paz', 'dios', 'vida', 'bello', 'dia']
+hola sandrita deseado feliz dia madre tarde seguro sabe usted juno tomado fotos
+germinal mortal volando todavia quedan duluoz salcedo
+amor paciente bondadoso envidioso orgulloso egoista guarda rencor corintios buen dia
+amanecer respirando puro regalo frente mar preparando mente meditacion
+buenas noches descansen
+alegra muchisimo gustara igualmente placer saludarte proxima vengas avisa tiempo vamos
+pobre pasando united genio quiere
+esaaa mejor suertes disfruta noche disfruta costa rica buena vida pura vida
+años sido parte junto camisas amarilla gracias
+dios cerrando broche oro dios siempre dando mejor hijos semana mejor pasada
+excelente den carro molesto igual conozco nadie haga uber asi bono
+buenas noches descansen
+horario quedo tan perfecto tan buenas eectativas profes quiero entrar clases tan
+solo mama logra primera vez cena paz familia rodriguez feliz tener madre
+vivo metros basilica sali ver juego polvora dos dias bonito
+fijo demasiado hermoso
+viendo looking queers folk asi doy cuenta nunca grupo mejores amigos gays alguien adopta
+recuerdo escribia hermana motivara hiciera sentir util dios dio mejor hermana
+buenos dias inicio mes darlo aunque menos bueno feliz inicio semana
+termine hora costa rica hizo super adictivo gusto encanto
+fiesta bananera dia cerveza semana ultimo dia eeriencia asi quieren vaya parranda
+estupida par esperando saquen desgraciado trailer resident evil vamoooos
+agua hielo regularmente mantenga fresca poquito azucar semana durado mes
+encanta hacerte feliz
+totalmente fisico deja atras persona atractiva incluyendo propuestas cerebro
+hoy participando mujeres alegra preguntas propias hacer preguntas pareja
+delicioso san rafael
+llego tarde huge fan empece creci sube cae serie temporadas favoritas
+hola queria agradecer personal starbucks sabana guardar cartera olvidada mejores
+mañana voy clase tarde yoga yoga aerobico
+triste
+chiquilla tirar piedras techo vecino cristal feliz noche pili
+años acompañarnos edad crecido mano ustedes mil gracias atte ale
+cosas debemos usar simplificar vida cerebro sonrisa eliminar interesa simple
+gracias prometo siguientes años titularme aunque costado llegar hoy
+consume produce saludos jason disfrute super viaje
+buena idea aunque dinamica edad distinta
+bienvenida juegos mentales
+gracias sigan adelante maravillosos trabajos quiza algun dia tributo soda stereo
+siempre aprende nuevo
+mañana saber gran amor puesto confianza salmos buen dia
+listo puente peatonal casa dejar jugarme vida voy auto cajero
+asi ser alegro solo barca pierde influya madrid cmo liga ayer tuani
+rico dormir
+delicia cerca fijo llego tupper separan pozol
+corazon desperto pasos siguen dicta voz sueño siempre ligado amor
+mama maquillo super chiva grave snap
+excelente eectativas supuesto voy pendiente verla pronto posible gracias
+cafetear sola traguito asi veces lindo darse tiempo
+dias hoy agradezco tener carro andar higado hinchado saber mejor ando uber
+chema oficina deseando vuelva oficina dirigir empresa mejor
+sepas hacer hagarra celular audifonos despeja mente
+sos james favorito
+mezclan realidad mundos paralelos diferente peliculas marvel
+acabo recordar existen queques navideños casi diciembre verlos lado
+vas ser gran comunicador
+princesa hermosa creciendo rapido amo pequeña tia
+voy ver armaggedon cinta rajado gracias persona recomendo
+teja cabron programa agradable vida real doble buena gente
+bonito tener orden vida solamente aprender acostumbrarse poner cosas personas lugar
+gracias hoy feliz descansa sueñes bonito quiero
+buenas noches chitos chitas tl sueñen bonito asi
+salga examenes voy meter gimnasio voy tener cuerpo lindo ahi voy ser feliz
+buenos dias ultimo dia laboral voy vacaciones semana exitos vidas felices
+tan mala muuuchos elementos primeras dos peliculas mejor agregan nuevos
+ahora trabajo tiempo completo siento tan merecedora viernes derecho cantar
+maniaticas divertidas
+mejor espero emocion disco nuevo deseo tener tiempo digerir discografia morir
+nuevo quiero dedicarme solo ser groomer pasear perros saben felicidad trae
+respuesta correcta
+apoyen network futuro hare videos directos ahi
+vez pasada hice amiga baño club llamaba naomi naomi presente
+pones buscar defectos buena iniciativa redes quiero haces falta
+cuidado enamora suegra vieras señora mano cocina dicen panza llena corazon
+niegues señor misericordia siempre protejan amor verdad salmos buen dia
+siento ignorada costumbre bueno estudiante universitaria vez lamentarme puedo aprovechar tiempo
+prendieron fuego unica sabia cantaron haciendo fila baño gusto conocerte
+podria decir ex demasiado feliz hizo crecer persona
+perder esperanza digamos eectativas alguien dio tome gordo
+escena documentales respetados naturaleza planet earth dudo montado
+hoy buen diaaaa
+sentirse mal querer creo bueno saber quiere
+hagan haganlo amor corintios buen dia
+buenos dias pases buen dia
+canciones juanes julieta venegas siempre hacen feliz
+obvio quiero llegar verte asi vez organiza ixma
+buscarte agarrado calle venias hacer concierto bueno pues encontre final
+buenas noches descanse
+tan lindo amigo espero jueguen rencor hacen imparables resentidos
+solo quedan casi veo luz
+bonito demasiado extraño sufriendo alturas seleeeeee
+año ser diferente ser diferente
+mami bajar velocidad mejor quite
+papa emocionado lagrimas tenores conciertos quedan alma siempre
+gusto temporada buena miedo corta ansiosa temporada
+pulsearla bastante intentado par veces buena foto
+encanta resaltes moda ser superficial sino siendo excelente critico costa rica
+correcto pura arte mejor pudiste describir bendiciones
+bonito anunciar excedentes asociacion solidarista depositados
+traen pasas puro sabor
+hizo tiempazo ruta desafiante campeona
+calma pueblo bien solo vaya presente haga fucking examen tranquilo
+gusta rumbo vida llevando siento tranquila contenta conmigo misma
+ladilla chevere
+ahora oficial trabajo chiva podia pedir
+consiga empresa concierto sorpresa asi
+gusta dar buenos dias buenos diaaaas
+alegro milord feliz regreso casa averno
+lindo gracias dios trabajo
+perdon ser peor prometo darle amor comprension ternura apenas termine semestre
+justo necesario hice siento mejor
+pues hecho funciono siento tranquila despues
+buenos dias exito maratonica sume van llevar alegria personas sufriendo
+cansado saber hoy ayudo hace feliz
+siento identificada tweet cuenta mejor amiga aveces cosas
+claros ticos solidarios necesita
+buena fiesta pegaba
+hoy hice gol vida perdimos hice gol vida
+gustan hecho
+hoy nuevo campeon pase campeon pierda
+realidad amargada maldita juega viva parece prometo
+excelente grande
+genial iniciativa puede ayudar
+amigo secreto hoy trajo delicioso arroz leche
+sigan juntos tiempo
+momentos montamos canal re pichudo
+mediodia proxima dude aunque vea serio carajo buena nota
+tradicion supuesto leche almendras rica
+verano grupo compitas
+mejor amiga secreta vida quiero regalo voy dar
+esperando buen noche
+fijo gusta hago hice episodio vii cine veces
+podria pasar dia entero viendo solo mejengas
+comemos crepas bebida hoy feria navideña esparza pone
+buen dia seguimos
+diay bonito comentarios
+llena demasiado ver gente intencion ayudar moviendose lindo
+sopa negra opcion plato fuerte soda dios sabe reconfortarme despues noticias agobiantes
+gente buena pasan cosas buenas resto veces pasan cosas buenas
+nunca ganado chuzo probar nueva pizza tarde liberiana crown pizza
+muerte andaba parranda
+ufff cosa deliciosa desorden patas ser feliz fexito
+chineada almuerzo trabajo gracias
+acaban confundir estudiante universitario mejor buenos dias
+necesito gato vida asi convencer papas
+lleguenle divertido gusto cata
+voy pedir suba ponderado
+queria salirme aguas termales mañana voy monteverde ver tal
+dicha vale mundo diga
+diga posible aun
+ganadora hablamos mensaje participar
+hoy dia lindo chinearon amigos amo
+pues pienselo ultimo esfuerzo ahorita llegan vacaciones
+siento tan feliz semana cerro bien
+pues buen momento hacerlo
+acabo tener idea formidable involucra mande correo
+daria poder abrazarte
+haber enamorada canta llamandolo hora diario hace
+tenes dias actividades muchas peliculas disponibles asistir
+dice llorar locura opinas decis entonces cantar
+cafe sono sentados meneamos
+bueno verla anoche pases excelente dia
+ganado lugar especial
+amaneci lleno comilona anoche siempre campo desayunar
+buenos dias gripe hoy disfruta dia
+hace sentir tan bien ver sentir absolutamente
+mejor serie mundo
+buena vibra transmite
+adquiri sitio abarcara paises momento parecido excelente herramienta
+solo digital entonces perfecto verdad muchisimas gracias abrazo costa rica pura vida
+estudiante periodismo encanta ambito deportivo admiro sueño conocerlos porfaa
+salga bonito
+exitos buena vibra recital
+mama dice vaya cole serio amo ir
+hola dijo bien fuertes aguaceros viento control preguntar
+excelente atentos comentarios
+bien suena nordica hablando argento
+exijo beso carl enid lindoooooo
+dicha zarcero calle
+obvio importante preguntar
+pueblo anda patrulla recolectando alimentos perecederos casa donamos
+dejo congelado amo ratings
+segundo cuarto golden lleva puntos
+ok vea lado positivo motivo hacerle drama resto vida
+voz debe tener dicha gaby regresara pata
+chiva pasar debajo puente platina siempre querido serio
+pueblo bonito españa enhorabuena solo rioja solo bueno
+dicha trabajo salud vacaciones
+precioso condenado
+libro chiva buen punto comida entonces
+hoy primera premier exito
+siempre bueno opinion playo
+espero jefe mañana libre
+nunca spoileo odio recomiendo meterse mañana
+rayas gruesas gusta pumas sabe hace
+igual vere protagonista guapo
+buen dia gracias comentario gusto servirle
+mejor compañia osquitar bueno
+feliz termine cuatri exito ahora sueño grande
+gracias taaaan pendiente
+amo nueva cancion sofia reyes
+mañana dia libre hacer dormir
+vez veo muchacha guapa
+errar humanos debe pasar
+tener grandes eectativas futuro vida
+voy vuelta deje pampa lindisima
+voy mañana playa confiando sol quite gripe tan horrible
+envidio buena manera oportunidad mañana estadio
+casi mision imposible super lindo
+mando abrazo vienen dias duros superan eventualmente
+misionero ideal claret beatos nuevos
+rico silencio cuarto
+desayuno guanacasteco hoy nochebuena hoy damos vueltita nicoya
+feliz feliz feliz feliz
+triste hoy consigo
+deben ser mejores hacen menchon
+viendo netflix puro moco veanla
+ser productora radiofonica mejor vida
+abrazote enorme sos exito
+funcione vemos cumplido
+alpha suerte ten feliz año
+quiero mogollon sobretodo rapido contesta wasaps
+supuesto solo incluyo entendido mal
+pinta buena gente veo conocio gracias
+gato tipo garfield vago encanta
+responder espero deseo salgan nuevos proyectos besitos
+recomiendo parece monotona capitulos vuelven subir interes
+solo recuerda iman tranquila
+advertido gracias subsanado aportacion
+gente buena trabajando duro palabras asi impulsan
+pueda quiero tener omega constellation numericos romanos
+parada visto rotonda bonica ponia nules
+fichado ganas darle uso gracias
+gente ayer taguee ayy hannibal
+gracias malo solo primer viaje gracias igualmente
+sumamos felicitacion grande
+dio tener perro ilusion puta vida
+gusta personalidad espalda ancha
+final acabamos hablando rato simpatica
+año madrid hara triplete hace rapo grabad mensaje jejej
+sentimientos orgullo valencia grandes quiero mejor valencia
+sentimos empatia ser vivo distincion
+pues cosas bonitas puedes ver vida
+hermoso bueno desviar mirada cielo nubes vez abajo jodido preciosa foto abrazos
+edificio edificio facilisimo articular
+lamento decirles calvo calva perfecta opacada pelo
+puesto radio solo escucharle ganas verle ostia
+hace tiempo hablabamos skype amigo ademas mona
+pensar irse pronto cama ver dan capitulos mejor manera alegrarse noche
+pues ahi huyes entonces luchadora cobarde
+nop ahora queda claro asunto gracias
+años viaje conformate moleculas potasio buenas
+creas gusta tener gente engañada
+cuanto salga bucle infinito casa imprimo mapas dos estreno
+enhorabuena geniales resultados economicos record trimestre pasado gran trabajo
+noticia perfecta
+hoy toca escuchar grandes artistas
+pecar ser buena gente
+quedo tranquilo entonces mirando opcion coche
+ser divertido imagino hombres vetados
+tio quiero mil hablado
+puedo olvidar imposible resumiendo puedo olvidar hare jamas
+bien bien celebrando nacieron dia dos capitulos
+chulas gafas paula guapa talento innato
+tarde voy comprar juego esperando muchisimo tiempo posiblemente suba tarde noche yoshi aparece
+victorerubio recomendarme seguimiento artistas talla internacional monologos musica directo
+work home espectacular poder verlas
+doble campeon europa
+buenos almerienses mil besitos
+biologos complacidos mola
+haciendo feliz tl quiero sigas
+necesarias duro año trabajo cogido
+hola bella andrea maravilloso dia besitos
+vez decanto japonesa encanta batalla caratulas
+importantes mediadores buenos
+bien dicho roberto cosas nombre nadie dice cola cado
+super mona pueda mirare molaria grupal chicas spidey
+mensaje buenos dias corazon feliz
+asi compañera fuerte abrazo
+tan estupenda siempre besitos feliz dia
+menos ftwd hace ameno esperar twd octubre
+reconocido perfil placer mutuo guapa
+gracias seguirme leemos
+sortija buen detalle gracias
+maneras mejores ocurren empezar semana
+gracias ser sorpresa ser tan genial vemos pronto seguro
+hoy microaventura dos expertos kayakistas ria villaviciosa puntal
+quiero figura madison proxima salir
+buenos billete comprado ahora hacer dieta deretido tarjeta
+genial debemos organizar cosas asi necesidad nadie abandone pais
+fin espero recibas tuit realidad alternativa sigues viva ahi acaba camino suerte
+sido placer profesionales hoy
+tan bella estilo siempre mereces siempre mejor maravillosa besitos feliz dia
+añadido sabia hacerlo leyendo dias bastante encontre modo hacerlo perfecto
+recomendacion mejor buena partida
+escenario muwi revellin gratuito abierto publico
+amazon conozco llega lunes sientete afortunada
+sales genial icon conozco casi
+persona ironica gusta muchisimo humor asi
+hola luis vendras barcelona promocionar abrazo feliz dia
+veronika gran actriz sobretodo maravillosa persona deseando verla ahi besos
+dia examenes suena lejano semana viene jajaxd
+septiembre limitan horario toboganes piscinas siguen abiertas noviembre
+buenos dias podamos contarlo
+buenos dias serio primer dia curro
+genial vendra buen dia
+gusto paseo alternativo gante
+diras ganadores buenos dias lindo
+chulada mola post chicas
+preciosa actriz
+gusta creo bien
+canales latinoamerica andres tampoco mal buen material
+hoy molon hoya felicitad bonica maja
+intrigante autoexploracion consciencia espejo mano pionero gaona
+veces hablamos skype pareciste grandisima persona
+vuelto escuchar años despues maravilloso
+apruebe suspendo paso voy montar fiesta parare beber higado reviente
+acabo hablar alba esroy poquito mejor
+datos hoy dia mejor catalogo sismico datos historicos
+bonico darles vida libros
+tio depresion pasa amor soluciona
+experto hacer reencuentros inolvidables since
+viene pelea fuertes willy toledo pequeño nicolas
+artista favorito ver
+diciendole cara verdades primer entrevistado atreve hacerlo directo
+meo novio novia contentos
+ambientado italia comedia serie parejas entuertos honor clase social humor
+conocido hace años claro surgio amor
+nacho haciendo cadena graciosa
+ser filler bastante bueno entra duel mejores filler
+buena tarde
+vale funciona aleluya cambiar boton palanza derecha izquierda roto
+familia huerta perros condiciones estupendas
+perfecto buena cerveza siempre bien
+bien mundo tercera generacion primera merece pena
+solo karlita entiende buenos consejos
+alegria ver gente salido defensa clasicos cultura gratamente sorprendida
+veces unico merecen pena
+espalda bien chicos preocupeis espero juicio lento libre carcel
+acompañar temporada seguramente exitosa james recordatorio frecuente descomunal trabajo
+pues maravillosos ejemplo hoy mañana
+adoro cuenta llena cosas bonitas
+encanta asi feliz vida buenisimas noches amo
+libros enganchan primera pagina hacen tiempo vuele buenisismas noches
+pues siguiente gracias haberme ayudado
+bonito rincon ganas ver nueva web
+artista muchas gracias ayudarme dejar libro bonito
+vale probado hoy parece bueno vere videos
+buen viaje cod van mañana pasarlo bien disfrutarlo puedo
+frio siempre puedes poner buen abrigo
+menos mal dicho escuchal
+siiiiii tio invito litro jurao
+momento alta autoestima ego puedo asegurar sonrisa contagia persona obviamente
+app deja salirte seguir escuchando canciones pasan solas
+siiiii nuevo lista programa luego concierto
+paseo tren madrid findes largos dos semanas
+gracias placer conocer pueblo tan precioso
+genial ultima parada estreno salas
+ganas hacer stream especial horas objetivo
+ahi gustos diferentes asi puede hablar
+alba carrillo buena modelo haciendo gala profesion entrevista willy toledo
+buen motivo tope venga
+cracias dices bendicion ser paciente veras llega milagro solo asi ten
+poniendo fotos loco tan mal
+clasico dia donostiarra quedarse casita futbol
+permiso favor foto miquel encantado poder verla timeline
+solo hace flojos pantalon flipante
+pasar gratis siguiente temporada
+esperando nueva temporada vamos calentando motores estreno noche
+molando bastante rollo encima balistico dan mal
+hace tres dias hoy pegado segundo clip alto ala caza
+ves programa favorito solo encuentro temporada vistos
+gracias niñuca gran sensibilidad valoro opinion feliz noche
+hilo fabuloso comparto dices
+toca tema maravilloso dejar ser ficcion podria darse gran hermano
+ver semifinal masculina mientras hago estatica tope
+frio solucion hacer dice frase sabado sabadete camisa nueva
+pareja peazo abuelo tener hijo pletorico
+facil verdadero amor pokemon
+comenzando hacerse visibles ahora van segundo modelo fairphone
+buscame zapdos legales gustan wapo
+buen amigo compartir pregunta ask
+conoci vuelto ver pareces super sincero leal gusta hablar contigo
+verdad buena pinta investigare
+siempre tortilla triunfa platos
+atrasadas gracias
+alli volvemos despues semana espectacular
+solo quiero bailarte medusa loca privado
+aceptado reembolsarme cobertura maritima advirtio momento contenta parece justo
+bueno voy hacer sprite primer lider gimnasio fan made
+envidia mala dado disfruta aun duelen piernas buena
+niñuca preciosa prometo alegrado tarde detalle tan bello enternecedor mil besos
+aqui haciendolo conservadora sale seguro ver montamos thanks ideas
+agosto dia internacional solidaridad solidaridad comienza sonrisa feliz dia
+terapia panorama asi normal siga soltera problema siento mejor
+festivales favoritos ido dos veces
+horarios distintos ahi
+gustaria poder abrazarte sientas mejor
+sido acierto grande anoche
+espero sobretodo tenerla niño gracias guapa
+tranquilo omar sigo ahora
+ruta ideal disfrutar familia
+etapa cierra comienza nueva aventura
+primer tuit llego preguntamos buen dia buena compra
+walter genial echarle cenizas donie
+va tranquilas nunca logra refutarme
+primer dia operacion bikini superado
+veces abre escuchado canso hacerlo suena tan bien juntos
+gracias rodrigo compartir paso feria libro benidorm esperamos encantado
+bonito puede ser cierto alegro mencion
+muchisimas llegue prontito disfrutes
+vida lleva caminos inextricables alegro molado programa hoy
+corasonsito pide gritos clexa fanfics bonitos profundos dejan llorando
+sabado risas juntos año
+aspecto conocido sistema solar probablemente aun cosas descubrir ahi
+javier hecho ilusion respuesta feliz noche
+galleta bonita feliz mejor maknae mundo
+guapa menuda promocion haces sol
+buscare pinterest asi gracias
+lindo ver vuelves leon echa menos aqui quiero abrazarte
+genial ahora mejor tres primeras aun asi todavia cosas pulir
+solo cite gran definicion dio pronto artista omar jerez
+va gusto igual siento sino blme bien adaptado libros sparks
+buenos dias magaluf
+nuevo trailer espero gusten pokecasas imaginabais asi dentro
+miserables libro pesado silmarillion amo dos asi valdra pena
+dreamer siempre quiero chicos quier abrazaros
+pintaza chistorra lomo productos deliciosos probaremos sugerencia frio bocadillo
+capturado primer gimnasio pokemon cierto probable tarden minutos quitarmelo mola
+canal global talents suele ser rapido subir actuaciones valoraciones previos resultados
+principios septiembre saldra nuevo tema forma video ganas escucheis
+hola guapisima encantaria hablar contigo dm puede pasar
+disponible nueva sesion mejor house rollazo flipante
+parte aspirantes grandes opciones llegar galas
+perfecto mejor incitar lectura contaras tal magico niños niños
+queria manifiesto cables chinos cojonudos cosa compres barato
+faltaria pensaba construyen discursos emplean debate interesante
+quedan ocho meses aun hacer confiemos poder realizar proyecto planteado paciencia
+hola tomas visto nuevos normal comience espectaculo
+aun jugable tgs creo tarde demasiado
+siento spam quiero compartais conmigo felicidad momento espero ser mejor capitan
+pies mariano rajoy partidarios aunque tarjeta viva espana
+siempre buscando mejor ahora bien cobro bien puede vaya
+ultima partida jugada sona support grandes razones jugar sona
+echar menos casa leyendas urbanas
+perdon dudas twitter ayudas convocatoria ayudas interesnate
+gracias respuesta cosa aqui necesites saludos
+favoritas galeria luz captaste misteriosa ademas encanta
+cambiar mejor sistema educacion medica españa complicado gente
+buenos dias extras meses
+gracias fantastico post
+hola vengo intagram verdad hola igualmente
+pequeña donacion hara felices miles chicas
+encantados felices abrazo plasencia
+gracias feliz haber formado parte edicion master
+genial deseo escribirlo seguire escribiendo linea practica
+digo facil llevo años intentandolo trabajo vital quiero intentarlo
+recupere pronto merece malo
+voz bonita ahora solo aprender diferenciarla gusta voz
+acabo jugar manual pes cambia juego jugando leyenda velocidad impresionante
+gracias momento caido tres asi empieza mal dia
+buenos dias aqui andamos sindrome post necesito jugar golpe peeeero tiempo
+edad inconveniente parte infancia falta asi
+salir trabajar mirar par cosas canal irme cine ver mascotas amigos planazo sabado
+pasado grande estaciones autentica gozada familia
+plan perfecto terminar fin semana despues
+vez equipados
+tranquilos dinero camacho seguro mañana empiezan escabadoras arraijanal
+tranquilo imaginaba planes ver real alla finales enero
+abierto ventanas conectado movil altavoces ver ahora suena mejor
+pellegrino dotado equipo gran consistencia defensiva buenos fichajes
+queda bien tio espero pasando buen verano
+buenooo claro pegando estupendo
+ventilador mira cara seductora
+enormes buena carrera hoy spa
+supuesto amigo pases buen domingo
+experiencia centro docentes medida posibilidades llevamos cabo habitualmente
+compartir querido
+genial genial gente conozca alternativas
+buenos dias feliz domingo abrazo
+hoy queremos felicitar cumple mejores personas conocido gracia
+hola gustaria escuchar nuevo single promocional
+preparando cosillas nuevas
+octubre cositas fuerte abrazo
+mira asi haces ejercicio
+gente dio mensaje buscar clan conseguido ser suplente adc dragonszgaming ganas
+labios pelo pienso llevariamos bien
+partidas beta battlefield amigos mejor mundo risas normales
+siempre caen mejores suerte
+guapa
+agradecidos miras buenos ojos
+gracias francisco feliz dia
+digas dia ves meta inalcanzable luchando siguiente
+gran capacidad entrevista
+increible cierto hoy video canal volvemos actividad despues descanso ganas
+paso genial haciendolo
+hoy visto cazafantasmas fin aunque sido peliculon mantenido entretenido dos horas dura
+veia hermosa voy poner vez suda polla twitter
+mejores fotos ven
+verdad hoy buen dia
+puedo encontrar incendio villava tan cerca instituto pena quemase
+mejores indicadoras totalmente privada abramos puerta debate previo
+vez risas aseguradas entonces mañana preguntamos dadlo hecho
+bonitas
+volvemos energia carta nueva
+primer dia adaptacion superado
+septiembre bonito retarse increible puedes aprender medirse obstaculo joyita corona
+trabajando equipo especial proximo adelanto ser programon
+salimos zaragoza fin semana unico
+bienvenido arriba sanchez jajaaa
+tal punto comprar entradas opcion coger aun asi arte magia
+gracias feliz dia
+alegro importante darnos cuenta gran valor podemos aportar encontrar mision
+verdad fotos bonitas
+mejor
+unico hace feliz escuchar adivinar ganar
+mejor bae
+emotivos
+vuelto casa llevan bien vez pasa culpa quedan tan tranquilos
+inteligente
+buena nana dormir
+volante peligro constante enhorabuena
+muere labios mirada tan cerca dandote besos dice ver
+vez escucho primera vez final mata
+serio amo
+mañana encima mañana vuelve ser dia grabacion dejar preparado
+vivo privilegio decir opinio ver vemos
+puedo meterme diseño precioso jugue perderme dejarlo encanto
+importante serie pueda seguir importa partida mientras punto
+conozco gente hacer feliz mundo fomentar culturas
+ves alguien hecho pasar tan mal sientes mejor puede pasar
+solo sabe hacerme feliz
+leila mejores
+muchisimas fuerte abrazo
+muchisimas fuerte abrazo
+gustado respuesta pregunta aun asi vientos soplen favor direcciones
+guapa
+perfecto entonces gracias
+pla clase estadistica acaba conferencia sony hoy veloz llegar casa
+bocina acaba entregar paquete amazon faltaba asi guay daba perdido mañana
+guapa
+lio siendo tio mal partido buen puesto divertido ademas guapo
+pues hablaba tokio hotel ytbers alegro tener seguidor cerebro menos
+siempre sido honesta clara pelos lengua nonpuedo orgullosa persona converti
+verdad segura siendo persona tan conocida utilizado terminos piensa correctos
+mal
+fin directo gracias pasado streaming saludito ahora voy compras noche viciada maxima
+esfuerzo segunda parte ver victoria deja rato feria albacete
+ganas ver abrazarle iba decir menos tocara narices
+ahors puedo tirar horas viendo videos conciertos encanta mueve escenario niño
+pues quereis diga nuevo gaga bien nuevo sia muchisimo mejor cancion completa
+comics star venden sitio tiendas especializadas hipercor alcampo
+geniales
+menos hoy dormido
+the mejor
+gracia mixta
+voy tipa dura
+comiendo zumooo
+taaaaaan bonito
+preciosa
+kiero
+delicisio tio
+tan orgullosa yoongi
+hoy voy enfadada
+cariñoso
+feliz
+dia nublado ser mal dia
+tio tan perfecto
+hoy dia bonito
+hoy veo guapa
+feliz voy ser
+asi grande hoy
+mejor año
+bonitas
+tan irresponsable
+sabian after fav teatro g construido dia hoy voy dar placer vean ahi metido
+hoy primera vez sali permiso mujer detalle saber lado llegare casa
+buen dia elige dias milagro dia lleno armonia luz amor buenas vibras elijo ser feliz
+dios sorprendido semana caja cafe cosas vienen cosas mejores sige maestria
+listo fin casa dormir horas nomas gracias dios papas bien yendo chingon ahora chingarle salu
+niñ junto jugando preguntarse haces saben respuesta correcta mal mal
+falta acabarme cause juego mamadas yirs fifa papi cause
+tempranas horas noche solo falta leer mensajes whats chido gusta leer verdad
+ustedes verdad siempre lucen conciertos hicieron felices miles besos abrazos
+viridiana piensas llegar llenadera mama dormida cuarto mama vi
+buenos dias enojes recuerda gente hace cosas gente hace cosas afectan besitos
+ayer amor vida vida buen amor vida pasado feliz
+hoy fin cene comida calle hoy walmart hiciera cenar dsps semana cenar mal
+claro amor amo esperando aeropuerto sal quiero veeeer
+hablar amiga cuenta anda viajando fiesta uni suda hace sentir bien feliz
+exacto foto tome rueda prensa pues fey subio difundo fotos hago
+minutos nuevo video canal youtube pequeño regalo empiecen pasar agasajo
+dias miedo vivir rompete corazon alma vida regresarla intacta sino vivida besitos
+dias caiste importa levantate continua haz lado piedra tropezaste caer nuevo besitos
+buenos dias vida dulce gracias asi gracias crece aprende besitos
+dias entrena mente vives piensas elige amable bondadoso consciente sano creativo alegre besitos
+pacifico cerveza mariscos gustavo cerati fondo paz playas reyes paz hermoso
+llegar seguidores arriba arriba vergas ricas
+voy hacer amo quiero unica real
+buenos dias aprende confiar silencio aumentar surgira tormenta rugir calmara besitos
+pesar ser inicie pie derecho hoy dara bajon ando motivada dar power amigos
+nuevamente fin semana vez rapido casi termina año espero dios dado mejor semana
+hoy amanecio nublado frio dia salir ver pelis comer pizza bonito buen fin semana
+buenos dias permites corazon mente mapa alma entonces nunca perderas besitos
+sonrisa unico hace daño alma siempre sonrie calavera suerte
+forma tan linda decir chavez saludo prontito vemos abrazos papa
+buenos dias hecho amor regresa recompensa viene arriba llena corazon ego besitos
+excelente semana
+querida
+mala idea
+urge empedar contigo
+pensar cosas buenas
+buenos dias hoy capaz sembrar mañana cosecharas futuro depende realices presente besitos
+llegar encontrar mencion jesse foto tan hermosoooooo amo verdad grite
+buena buena foto
+deja burlarte bien aprend adem salud cosas maravillosas
+dias secreto buena salud vivir ahora dueño pasado sueñes futuro solo presente pertenece
+buena pondre ver duermo dura buen buena mil gracias
+amo buen
+espero dar estabilidad economica futuro pues quisiera sentirme desbordada deseo
+pinche partidazooo
+puedes ser feliz
+fan fut hermana puso ver final partir tiempo extra debo decir buena
+happy birthday legal hoy siempre mejores deseos quiero rato veo
+caes lee sigue camino feliz super santa regalitos quiero
+amor iba contigo pues padre avion amo regresate
+hola preciosa pesar frio ganas verte dias grande alegras bella sonrisa
+dias busca centro enfocate feliz agradece incluso momentos desafiantes dolorosos gratitud libera besitos
+amo pones lugar mero mujeres arreglar changarro cae
+amigas hablaria nadie contigo whats benditas amigas amo hablo niños
+llena bendiciones
+cosas pueden dar satisfacciones solo saber quiere perderse buen inicio año
+feto bonito
+bueno hoy duermo temprano linda noche disfruta maximo leas tqm
+rato preparar cena fin año hijos rato misa darle gracias dios lleno ilusiones sueños
+atenciones talento soportarme año siga exito mejor
+gran año personas favoritas mundo año volvamos ver abrazar
+feliz año washitos deseo mejor mundo mando fuerte abrazo volvamos encontrar
+bien divertida das risa siempre andas buenas agrada buena persona crushes
+dias suelta viejas creencias cambia energia cruza limites imaginarios usa corazon libera niño interior besitos
+naaa postales tan hermosas taleb feliz año mando abrazo año tan lindo bonito conocerte
+recibe calido fuerte abrazo san luis potosi l casi cumple
+hola deseo feliz año nuevo lleno salud abundancia exitos mando fuerte abrazo
+hola paso desearte feliz año nuevo lleno salud abundancia exitos
+mejor seres queridos recibe calido fuerte abrazo san luis potosi l tqm
+ibexams grad prepatec vemrd grad ib itesm inq emria buen año viene mejor
+mejor nuevo año evelyn venga futbol aficionadas mando abrazo dios bendiga
+ultimo tweet año ser año perro ambitos puedo traer cosas buenas
+shido ser fiel sabia paso veces primer novio
+mejor fechas frio vienen solo planchar camisa
+aqui ando enferme garganta ntp sigue jugando amor amo extraño popochas
+cosas inutiles guardo memoria dialogos completos shrek dos canciones selena gomez numero telefono
+feo
+mañana ahorita voy saliendo central nueva lleno rapido
+pionera colonia
+buenos dias retos vida ahi paralizarte sino ayudarte descubrir tan fuerte besitos
+entiende verdad sabe hace vaya hecho bien grande
+ganar tio
+años aqui hermosa acordar fiel seguidor abrazo inmenso nuevo año bendiciones
+ganas verte extrañamos muchisimo vuelve pronto porfavor queremos
+lindo sueños hagan realidad copies modas ejemplo seguir
+lindos recuerditos mirar fotos enero conviviendo familia hoy hace año
+descansa gordis mañana vemos tardes favor sueña bonito amo muchisimo besito frente
+yumi amo viendo serie extraño mañana veo
+madurar divertido contigo
+hace streams buenos veces vacio pone bueno ambiente
+crecer cosas causaban efecto emocional ahorita vale madreeee
+acorde niño trajeron balon hizo amara ahora apasiona futbol
+hermosa mil familia crece crecep gusto dibujito hice
+mañana haber niñitos primer patineta ven apoyen ayudenlo frente ustedes nuevo skateboard
+hoy pedi dios señal realmente obvia poder tomar importante decision clara pudo gracias
+hahaha curas chido posiblemente tigres vaya
+brillas brillas tan lindo
+espero bonito dia h deseo mejor siempre feliz vez
+despedirnos dijo have conteste igual dije pendeja gud lob
+rato rosca reyes hoy parte suegro gusta hacer cosas familia
+hambre pido cena chavo moto mojar mal
+nunca van encontrar amiga guarde papelito secundaria decia nunca cambies
+extraño amor
+ayñ pasa hermanos super rubio pues igual cute cabello
+puede corregir
+llegar hogar inmediata alegria corazon asi dias cierran bonito hace tiempo
+viste bien divertimos despues nadie indispensable
+andas super desaparecido aqui pasando super bonito viaje hace feliz
+never late nunca pobre verdad ahorita buscado asi digital
+escribi texto bien interesante acerca violencia noviazgo salir relaciones toxicas luego posteo amigos
+duermo tarde planeando proyectos apasionan completo inspiracion calma noche
+puedo creer propuesto dejar fumar mes casi cumpla
+wooooow curativo hace parecer menos agradable gusta
+ama siempre quiere venir vino gratis tajin pasado muere venir
+mañana retenido compra linea pensaban fraude tarjeta resolvieron
+aca ecuador aun falta final telenovela pierdo capitulo abrazo excelente semana
+mundo twittero empezo segunda semana año listo vivir dia
+trague puro brocoli coliflor pollo ahorita echarme tostadas merezco
+gracias puedo esperar tiro perfecto gracias venir
+recorri ciudad dia mejor amigo
+aguante fritos mateeeees linda quiero fritos ahora ahre encima tomando mates ahre
+hablo contigo corazon pone feliz nota pantalla
+principal proposito año
+hermosa dan ganas comerme frio adentro
+extraño osvaldo julio leo increibles igual super jefes
+hola pendiente ruta caso encontremos buen precio publicamos
+siempre guapo
+leer atraveso estupido sensual joyce dublineses estrenar marcadores
+importante escucharlo
+hoy maestro capricornio paz descanse nuevo sono legado hoy carretera
+siestesita pense mañana levanto alarma
+paseito laika cumple dias años condenada
+dijeran bonita dicen sergio quembidia esque hermoso
+puedo evitarlo vdd haces mejor regalo
+hiper padre morelia asi muuuy chida costaba quieres avisas
+martina regresaste saltos mortales bueno quiero beso regreso
+quiero arriesgarme necesito contarte amixxx
+dia mañana regresan clases nuevo semestre cumplan objetivos exitoso
+ñammm antojo deliciosa cema
+curo rapido perdone gracias
+tan cerca tan lejos min distancia siendo exactos
+punto favor jijiji cosa hoy hice menos quedarme camita
+risitas ahi bueno importa solo pasaba desearte buenas noches descansa
+mañana nuevo realidad amorsitooo buenas vacas trabajo excelente juntitos
+feliz primer lunes gustazo escucharlos queretaro frio chido
+escuchan now you gone mejores discos
+buenos dias joven feliz año
+mama cumple años hoy dias felices amo
+visualizando cama durmiendo salga trabajar
+feliz feliz vida awww bonito ping muero amor abrazo grande
+dicen cuidar recien nacido trabajo equipo asi cambio pañal
+ciudad hermosa llena cultura gente bella comida deliciosa muero volver disfruta
+mala pata recuperes pronto feliz año
+empiezo año dije bien dormida enamorada
+buena hrs pasada lanza saludos marlen feliz año
+yyyy gracias vamos regalar playera
+sola bien
+daria disco autografiado
+acabo diciembre mes favorito
+ser esencial bonito vida bella amistad
+ustedes venian enfiestados cinco horas pues pues
+edad ntc pues supongo normal digamos paso igual videojuegos encontre maximo
+enamorada
+gusto entrada aqui mejores deseos año llega
+recomendaste mirror incluso temp tan criticada anoto pendientes
+pense olvidado hermandad chingona tener vida social olvidarse
+seguir consejo lobo caperucita roja oirte mejor verte mejor comerte mejor
+parte bonito bien hombre
+feeeliz dia enfermeras mundo mundial mejor
+hoy detalle happy
+profe feliz maestros narracion carajo diria dr
+suave contestaras rapido
+insisto pondra buenisimo
+quiero ver hace falta olvidarme buena musica vivo
+quiero novio vez dijiste procure jajajajajajajaja serio
+solo quiero alito lapizito quieran pedir
+vez bonitos trajo rosca mateo
+bueno años yendo rapido pronto vendra siguiente invierno
+creo mejor frase personalidad tan particular
+frio genial pasen pelicula regalo prometido tamales
+animo vida valga alegria pena dile mama buena rosca hace
+acabo ver pelicula extrañamente buena cadaver sobrevivir veanla
+buena foto
+bien saludos bonito nombre aire bonito dia
+excelente tema gustaria escuchar don talk anymore solo mejor musica
+sueño hermoso
+muchas abrazo mejores deseos
+taken quiero camara profesional ser feliz botonsitossss
+animo aca bienvenido hincha
+siempre mejor
+favor aun podido comprarlo mejor das abrazo asi ayuda
+dolio conciencia suda haria veces
+acabo etiquetar cosa alla tia tias
+sueño tan imposible tan solo viajar canada puedo lograrlo
+vez tan segura
+asi primero abajo comiendo panochita luego atras dejarte duro rico
+ntojaban canasta jijiji hablame porfa
+ser feliz significa perfecto buen dia
+feliz pases super bien
+haz grande propositos año lar inmobiliaria desea feliz año
+hicimos rolas años solo ligamos bandas canciones escuchar
+suerte mundo nuevo proyecto espacio hora quiero amiga
+igual quiero marzo abril octubre noviembre enteras buenos favor avisa
+contrario creo couchhhhhh debo hacer
+buenos dias aqui despues enfermo vamos mejorando feliz año bendiciones
+pinche equipo ilusiona bien machin año
+gustaria conoserte dia contigo plantel chivas gustas narra nunca caso
+pendiente familia pendiente mensajes pequeños amores
+aparentemente superados efectos venganza moctezuma cogemos camino chiapas historia nunca suficiente
+ok gracias ten buen dia
+creo bonito entrar ver sigue
+flores sido esfuerzo gran equipo
+vientos sanando bien chido cuidate manita
+mejor personas conocer
+gusta ponle limon azucar asi sabe rica
+buenos dias pues vamos empezar darle ahora venga candela
+feliz dia periodista conocidos amigos gente sigo sigue
+buenos bonitos dias amiwoooooooooo
+bonito arms segunda cancion escuchada dia
+empezaste año empleo nuevo gran abrazo super gusto conocerte exito
+feliz año rato saludar abrazo
+seguir siendo mejor madre mejor periodista cumplirles sueños seguidores ser mejor persona
+queridos dios bendiga amor quiero besitos
+siempre sido asi pues siempre cumplido pagado apuestas asi rugiste
+años dedicandome periodismo faltan cumplir años
+avente season asi va llega temprano ganas verte
+dios bueno tiempo
+hoy hace años grabamos primer sencillo conmigo siempre
+soñe banda rock
+super buen caer bien tampoco toca
+confieso play dice canciones bangtan canciones loca
+mejores luchadores llegado gusto seguirlo hace años
+primer logro año cumplido agregaron grupo desayunos trabajo
+asi personas honradas note
+ando bien nunca bien ricos chispitas
+termine contrato empezare buscar nuevo depa gatito
+pasas guapa andy
+amo mujeres manejan estandar
+rico exitabas
+encontrara cien años encontrare ojos negros millones ojos negros
+bonito novio
+amigo canta desafinadamente feliz asi quiero
+cero haga feliz tranquilidad super bien
+sigue pendiente redes regalando boletos premiere
+certain romance frases favoritas
+mejores luchadores tecnicos conocido espero salgas triunfador año
+mejor llegado enhorabuena
+portaste mal bueno regalos gusto
+wawwwww siempre encuentro modelo perfecta amo pasion diseñar
+tradicional gran sabor visita unidad favorita esperamos
+dices vida contigo tomas mano dentro lloro aunque mentira haces sentir viva
+amor veo gorda vestido ver rueda poquito izquierda
+ayer andabamos alla dire vayamos mañana ver dejan gracias lindas
+pierda costumbre dar buenos dias pared
+sale luce guapisimo
+esperamos disfrutes dia seres queridos
+creo sinceridad importante practicarla principal promete
+gracias libro puesto ojo
+jamas sido romantica necesito abrazos besos practica
+primeras vistas amo garza
+mañana juegan ganan venga universidad primeros puntos
+ser buena maifren ponga bien ahora preocuparte
+belleza tigres presente partes chicas
+cocinar rica pasta casera espinacas queso
+sad music trabajo buena combinacion
+muchas genial abrazo
+ven bien ricos gracias
+buenas noches risitas sueña bonito
+yastas aunque anda fallando buena idea diras
+amigos neta neta probabilidad irme alcen manos pidanle diosito
+veo meses pachuca calidad muchacho ayer demostro listo
+segundo dia servicio
+unico necesito ser feliz dinero
+llenas notificaciones
+pie derecho inicio año laboral
+bonito volverlos ver saber alegran regreso
+neta justo necesario
+poder ser feliz persona amas
+pues importa dicen suegra jajajajajajaj
+abrazo beso buenas noches
+quedes conmigo sigamos siendo familia
+empezar buena actitud dia mañana hacer validos propositos año nuevo
+mejor estudio ver mañana paso
+chihuahua mereces
+gustas viene tierna mirada sonrisa
+excelente cobertura excelente viaje
+agradable platica espero repetirlo
+esque gusto poquito
+recibir sorpresa inesperada pasar noche increible precio
+pues asi viendo luis videgaray tan pelon
+asi gusto bonito
+mejores tazitas vida caballitos tlaque
+importante salud
+dijo esposo merceria hidalgo ves cosas bien bonitas pintar
+eerta cocina siempre funcionado
+consulta virtual fin siempre gusto saludarle esperandole serio
+tiempo libre pongo ver videos animales quiero ayura
+contestaste sola razon
+acuerdo contigo nico
+suerte bonita logres conseguirlos saludos bebe
+pequeños momentos felicidad apenas duran segundos
+igual hermoso dia
+mundo twittero desperte listo vivir dia
+señor toca bien bonito apenas traigo pasaje
+buen dia dia maravilloso
+empezando dia canciones favoritas
+hoy ando buenas
+vida cosas mensajes
+dianas gracias bella
+saboreando hamburguesa pienso comer gorda
+pagare maleta extra nuevos momentos juntos
+ser fan juan siempre supe fuerza naturaleza hoy escuche querida dio ternura enorme
+hoy toco visitar mama descanso eterno contare vivo siempre mejor amiga igual
+amo escritorio foto juntos aparte cuarto cuadro
+hermoso
+endulzarme poquito
+planta tamarindo afuera posiblemente ser casa vivas vez buena señal
+feliz aprovechando puedo gracias deseos buena vibra abrazote distancia
+buen tip gracias
+perfecto
+nuevo
+ven diganle pudraa veo voy gritar enfada putaaaa buenos mundo dias amaneci feliz
+doy sincero quisiera salir casa busqueda felicidad refiero buscarte aunque sepa
+optimismo admirable
+dias hacen reir ocurrencias reportajes sigan asi recontra aburrido kisses
+espero mejores
+buena pela buen elenco
+espero mejores
+amor incondicional clase sentimiento busca felicidad ser incluso costa familia ama
+fin muchas gracias cariño buena onda tiempo corto repetira visita
+ahora sonando excelente
+hermoso
+mori dio
+hola aplicacion ver series bien completa incluso estreno
+siempre dicho relacion papa bonita siempre solo
+sorprende ver mejoras dia llena felicidad tranquilidad verte pronto posible
+abrazo sororoso encontraremos
+siempre sido gran poeta siempre dije siempre pense sigo emocionada tiempos cambiando
+bien dios enemigo pone incapie camino miedo dios
+nivel ingles sra alto traduzca juguete toy uselo oracion toy triste awww vengache aca
+dios guarda mejor siempre perdurara eternidad busca encuentra conforma
+cosas hecho tan feliz dias darme cuenta ape pink marble devendra
+feliz sabado tbm tiempos entro twitter agradable primera persona vea
+sinceramente nunca considere belieber idolo encanta artista toooodas canciones
+bien rafael ahead rscuches minusvalidos mentales red climper elmer haran buen equipo
+hoy mejore poquito alguien hace deporte hace año hacer luego semana empezar bien creo
+lei pense quisiera ser hormiguita trepar balcon decirte oido guapo bonito
+digo gordo pensaba irme cancelaron ultima hora dice tomara taxi amo
+ven aca abrazo fuerte fisicamente haria mal
+pos igual queria verte cantar lindo pos creo cosas genial
+bien ahi alguien espero corazon grave
+sigamos siendo felices felices felices
+amoooooo csm fi verdad unica soporto amigas sabes
+veo bonito
+mama quedo casa acompañandolos bueno quiere ver gisela desees madre
+leeejos mejor pelicula comercial lanzado hoy decir
+pasala bien seres queridos exitos propongas exitos puede
+nueva aventura aprendiendo aprender area educacion fisica enfoque competencias
+increible historias siempre recibir favores mismo lugar dar unico instituto
+puedo creer horas egresada años carreras estudios europa excelente trabajo gracias dios
+gusta creativo aqui aportes cabildeape desregulape sinconsultape integrales
+saludo jonasito calentando voz entonar feliz wagner
+viene bueno
+canal suscriptor antiguo
+ayer profe ubico genial hablar proyectos verdad encontramos personas motivan
+bebe primero reniega hambre comio llena linda
+amigos dices triste planeando salidas viajes futuro quiero
+genial cotizando organos cierto voy queda sentenciado
+lindo verte llevando alegria familias niños fiestas espero pases lindo amiga deseo mejor
+sigamos siendo felices felices felices
+salir temprano puedo almorzar casa comida verdad
+principio dolio corazon azul luego recorde bandera paso
+bonito entrar correo empresas tiempo confirmen fuerte auspicio
+sentimiento sensacion hermosa disfruto segundo segundo ganas enormes abrazarte morbo solo tan puro
+igual recuerdo siempre apoyando pesar distancia siempre aqui
+bonito postular ceup hacer cosas nunca pense podia tiempo hecho enseño organizarme
+fin rio despues ayer pense iba deprimir hoy feliz
+mejor regalo hoy aparte comida gano
+dias pasan salida tan genial lado maximo mejor pasado año
+vez escucho instituciones sui piel hermosa acuerdo
+feliz salvadas publico salvada jurado canta dms bien veo solista aimee
+siempre esperando rap radio media noche radio filarmonia yeahh
+cariño seguidores ser tan buena ser simplemente
+creo ambos seguimos leyendo pues bueno espero bien poder conversar momento exitos vibras
+vere peliii exitos
+gusto buscamos personas guste interpretacion cosplay gracias
+gran ejemplo seguir inspiradora eeriencia agilista empresario
+uuuuy feliz quiero verte ultimas vacaciones
+aqui buen amigo carl pelicula maximo
+viendo hecho sorpresas cine peruano nueva sangre renovar filmografia nacional
+feliz nuevo nacimiento infinito presencia aqui abrazo enorme
+fin inauguro nuevo estacionamiento parque gratis fin año probarlo
+rajado hombre halaga compro solito
+amo supieras
+creo jodido pasado lista venga jodidamente bien
+duda sido semana larga mundo vez sido bellas
+feliz tener conmigo hermosa familia dios cuide bendiga siempre
+tal mama madre veeeeeces cansada prepara caliente igual linda
+bella gracias hacer dia hermoso sonrisa forma ser
+acuerdan line buena
+miercoles lindos quedarme casa parece lujo
+asi saludo vida mejor buen vino buen cafe
+fantastico dia caeli
+hola feliz cumplee pasala genial lado familia amigos espero respondas pronto
+siento orgullosa ser fan hace años speach dijo sigo admirando
+apunto feliz pueden creer
+feliz dia amigos musicos musicos general bonito
+buenos dias amigos sonrisa esperanza avanza actitud fe
+aprender usar protector insolacion bueno diverti paseando segunda familia
+solo emociona primera etapa
+paso jugar fifa play coronas vienen mejores dias
+feliz chicas crecido industria feliz amo corazon
+agua momento final llegamos mezclarnos sentimiento mutuo
+hecho logrado valoras esfuerzo bien envidiable
+abriendo amas guao esperando queen
+bien sra presidenta predica ejm bien
+realmente gran trabajo espero sepa apreciamos
+buen oral encantaria sentir boquita recorrer erecto
+buen duo manolo cuatro linda cancion mar copas vida
+linda grande holly
+ricardo arjona increible katii alegras noches buen humor tkm
+necesito junto familia eternamente agradecida
+nunca esperes bueno nadie bonito vivir asi
+poner bases partido bueno tiempos naranjas
+trae buenos recuerdos
+encanta noche ic unico malo puedo salir amigos salen
+vaquero caballo imprimi ise recortable niego feliz alcanzaba
+final interesante
+gano encanta canciones
+espero pasado lindo
+corazon oro aparte unico nunca podrian crear igual
+bailaste hermoso gracias apoyo
+definitivamente mejor decision sabado sido quedarme casa abuelos prepararles cena conversar
+presente invitado puedes vienes
+pizza conversacion amena amigos buena noche
+domingo ultimos dias elotado
+hoy dia genial compartir niños
+horas javier prado libre
+caeli pronto vas sentir mejor
+alegria bueno alegra escuchar leer
+mejor ver estreno mejor compañia
+bien yuriko
+hermoso recuerdo junto ustedes
+genial incomunicada desconectada mundo veces
+guapo quedo chibolo cara pastrulo pastrulo
+grandioso conocer personas maravillosas ustedes quedan corazon conocen
+descanses bien yuya abrazo inmenso distancia
+cocinare cena familiar cilindrada
+hora seguir soñando bonito
+buena pelicula pone regreso galaxia lejana emocionante intensa final
+congratulations orgullo peruano dios gobernar congreso manchado
+viendo gran lindo
+quiero ver segunda
+buenos videos llegadas subs sigue cuidate v
+mes favorito año diciembre
+disfrutando dias previos
+feliz santidad saludo esperamos pronta visita
+talento componer canciones terminas letra pasas gustaria escucharla
+parecer daran canasta navideña aparte paneton vino proveedores engrien jefes
+pude ver abdiel tan lindo hara
+viendo the man doramas dejado enganchada historia
+rico pavito hecho casa santas manos abuela
+duda voz melodiosa ser humano podria encantar
+mejor cover realidad hermoso voz
+almenos vivo engañada
+ayer primera clase yoga amaneci demasiado feliz hace ejercicio
+ahora quiero llorar termino ahora u tercera carrera
+bonito sentir aqui junto
+felicitaciones usted señor presidente mensaje bueno firme directo familia mandamos
+improvisadamente bueno
+buena eleccion gracias empujarme verla saquen
+linda feliz disfruta celebra salvador
+igual feliz
+hoy dia hoy cumplo años mejor persona vida pudo darme
+feliz cuenta maravillosa
+amigos pavo huele buenazo preguntando ra vez hacemos
+costillitas ven demasiado buenas quiero cenar
+inconveniente excelente servicio maximo felices fiestas navideñas
+jamas pense momento tocara dar obsequios amo tan gratificante sonrisas valieron
+lindo agradable detalle conoces
+guerra mejor reality
+mejor pasar ocho horas dia sonreir
+pueblo crema feliz vento
+video campaña año juego bueno
+putisimo amo v
+ahora bonito
+acampar actividades favoritas mundo mundial
+acabo ver aldo plaza chico unico voy extrañar trabajo
+bonita tarde noche regalos
+mayor edad viejo deje tomar adultos jajajajajajajaja
+buen momento familia
+bolso comprado hermosooo quiero quedar
+porno motivacion pueden prohibir
+carga mejor relajas
+buenos dias noche noche buena feliz
+increible ahora entro solo trabajo
+hare escuchar mejores frases
+feliz felino abrazos familia
+pase junto mama conocio persona
+demasiado buena nota adolescencia comerciales series edicion navideña
+demasiado buena nota revivi niñez adolescencia comerciales series edicion navideña
+have fun antu mejores deseos
+dia lleno magia lindos momentos
+lindo dia hoy
+dormir quiero decir linda feliz buenas noches
+feliz vivi pasado bonito seres queridos
+buena fotito abrazo hacen buen programa
+hoy pasaremos hermosa tarde
+amigos acabo comer relleno cosa deliciosa mundo mundial
+ustedes siempre sido bonito año anita amaya
+ser villano pelicula mejor
+acaba buen año empezar mejor siempre bendicion dios
+ultimo dia trabajo fin
+reviente mal tiempo buena cara hace felicidad
+quiero preciso sincero decir año termina mal
+buenazos medio gruesitos cortados forma vertical
+siempre junto espero verte solista
+sido año viajado conocido personas excelentes
+recien levanto dia bonito sol
+lindo saberte abrazote feluz
+encuentras formas pon piscinas empotradas enterradas
+hermano templadaso hace tan lindo
+probado pisco buenazo tmb
+seguro salir bien suerte viejita
+hoy actuacion extremadamente feliz
+amo vestidos largos enterizos
+medias tan lindas
+hoy mama sentimiento encontrado querer corriendo abrazarla comer rico reirnos
+bueno mire tele series veiamos viejo aun hacemos vez
+hamo juerte guachita
+lindo buzo cierto
+mirare programa completo gracias encanto escribiste foto gracias
+hermosos hoy cris vez final años sido ganador mejor
+depende ayuda buena pasa pasar vida depender unicamente vos
+bien vez salgo gente saluda dia sali impresionante
+votaba observado adentro voto gente bueno
+tarde peque
+mereces claro trata superar firme mami van llegar buenas
+persona sabado domingo queda dormida tarde jajajja v
+gustaria volver sentir miras sentirse unica persona vida rozar cuerpo preocupacion alguna ver
+botella agua fav gracias ser tan linda conmigo siempre apoyarme mereces mejor amo extraño
+hermoso solsito
+creemos real sociedad cientificos bueno real acuerdo dices
+bien hablo penarol viste ganamos campeon argentina ganamos copa rio plata
+direectv momentos lindos
+amo letras halla aca buenas ahi siempre vos vos conmigo bombonazo
+bien ganaron perdieron goleada ganaron penales queria bien ustedes
+gusta primera ves revista national geographic años besos bella
+mejores abrazos dudas
+tener hijo grande ventaja podes mandar sociedad buscarte remedios cco
+arctic monkeys bueno icon hice hace años uso año pasado
+loco sabado pensando divino hermano vanesa britos queria uma foto
+mejor vos fanatico azulgrana mereces sos tan zafaste clasico
+hace noches encanto aunq diferente habitual llore final
+buenos dias canal asi hoy grabar reaccion llegando pasen
+gorditoo lleno sentimientos
+tranquila vas superar solo tristes dias desahogate llora hables nadie solo sacalo pronto bien
+buen diaaaa hoy voy tarde trabajo porq ayer quede media hora salir
+flor lindo escribiste fijado espero abraces linda cuenta
+hoy dia meses mañana paso fotos actuales zorro adorable llego vida momento justo adoro
+compitas nadie demostrarle nadie llegar llego solo superar propios limites
+tenes razon jjaaa
+doy espectaculares
+tierna justo veia cosas pase genial dia voy genial verte
+lindo voy feria hoy unico compre paltas mangos
+buenos dias
+leyendo fin tiempos escuchandi mumford perfecto
+tqm tas grande linda besos hermanos
+puedo creer llendo hora sola liceo nono onda voy mejor podia ser
+buen dia
+buen dia excelente veo hoy
+recien llegue gym volando asi veo duchaso listo
+plan familia despues linda recorrida argentina volvimos nuevos contentos viajar tocar maximo
+buen dia conductor televisivo numero america amo corazon veo luego hs
+lindo casa entro podia salir dio vidrio agarre sacarlo super suavesitos
+gracias sandra ayuda esperamos utiles anita seguimos contacto
+buenos dias papa adoro fuerzas excelente martes
+lindas super apurando tocandole patas traseras tomaron tiempo apuras
+aunque hablemos olvide bouer espero pasado mejor
+segundo amor rampla equipo papa querido gte barrio obreros flia
+amiga necesita lectores fic link link fijado
+solo amo viejo descanses dormir gustaria soñar vos
+recien grabado nuevo video ahora entrenar horita luego baño pongo editar
+lindo
+circuitos escrutados colombia abstencion gana
+responsable profesional ademas bien estilo club garra
+trabajo feriado
+feliz cumple sofi justo hoy toco canal pases bomba beso grande
+lindo escuchar comprometida trabajo proyectos freelance
+bon buen dia
+increible aca melo grandes voy cholulear pedir foto
+tarde bendiciones mimosos
+buen dia excelente jornada veo hoy noche
+buen dia excelente fin semana buen descanso merecedor
+buen dia amores liceo sisisiiis tremenda bobita amo
+hola hermosa espero bien voy hacer noni cansado beso divinaaa
+queridisimo buenisimos charla escuche tarde sonrei
+dormir mañana pilotar nave vez linda noche
+mejor duda alguna
+espero ido lindo
+ubico gracias idea llamaba zona acabo aprender nuevo
+gracias vos buena onda sumarte gifs iniciativa
+compartir hermosas fotos
+importante hombres tamb caso suman campaña violencia
+hambre tonelada comida cocina mama fines semana
+correcto bien vos seguir asi meter asadito
+asi perdonada
+simplemente lesion talon hacer recuperacion igual bien
+nueva mejor amiga llama alegrando finde casualidad dia despedida soltero
+ñery siempre solo vos confianza darte cuenta
+lindo hoy azul vez dije vos sos madrastra perfecta bella mujer
+mañana visitar primita hermosaaaaa
+networking creacion contactos siempre ayuda futuras oportunidades negocio trabajo
+hermana mejor usteedes
+agustin marco vida cambio completo voy olvidar nunca gracias
+cites tw sabes entrar perfil ver
+toy enamoradaaaaaaaa ovy hacer amor dar novio dormido ven
+papa voy dormir siesta asi despues veo noche nieta cama despatarrada
+encuentres menos agarrado familia amor
+hermoso agradecido
+disfrutando ahora esperando empiece tve internacional
+vivir dos hombres acondicionador dura
+excelente axel contando termina delincuentes futbol repiten programa grabar amplificar
+jajajajja nombre dio ganas escribir asi pq mejor vossssss
+divertido humor espontaneidad talentosos vecina orilla
+enere sociologia jajajja ser unica profesorado seguro feli
+daria darle abrazo vieja
+llegamos seguidores acompañarnos camino trabajo independiente sigamos creciendo juntos
+trasladarte coche chofer tener ganar excelente sueldo ayuda
+excelente idea menos pudieran hablar hora
+verdaderos hinchas perjudicamos club insultamos adversarios alentamos
+linda vos iguaal bebita pasaa user apellido axel celeste
+banco enojado contigo ahi quierooooooo
+terminas dia pensando bien salio dias asi
+andar siempre limpito arregladito dudas
+papa contento voy hacer curso produccion televisiva dictaran besos
+hoy pasamos lindo chicas jugamos cartas tarde morimos risa
+hola maria helena gracias amiga mañana iniciamos gusto info aqui abrazo grande
+hola trabajando sumar opciones podes recomendarnos restaurantes
+manteniendo ocupado
+feliz cumple sara pases lindo
+justo comi tremendo bueno pasame dir interno
+lindo veranooo aca
+emocion acabo conocer fenomeno veterinario lolo preparate consultas cotidianas
+pequeños detalles crean grandes sentimientos
+disfrutar hoy ultimo dia cel
+ver personas alegran aunque solo minutos
+buenas noches descanses dias verte prometo vez quedarme final programa asi conozco
+tampoco vienen vaso incluido costo efectivo
+lindo dia
+pronto cucha despejada
+caminar solo bueno salud sino tmb bolsillo
+copas mundo olimpiadas copas americas
+gustaria aca fav corazon asi podria usar pura exclusivamente ponen foto comida
+enamorarse persona dias amor
+duermo mejores hoy mañana juega bolso falta nomas
+happy birthday adorable feliz adorable
+personas nena pasa aunque conozcamos aqui presente
+chula vez mejor
+nena hermoso dia feliz cumple años dios quiere
+capitulito gilmore medida perfecta esperar masa crezca
+gloria padre jesuscrisro cobmigo camino
+tierno niño amoroso
+andas moni hermoso hoy
+importante compromiso comunidad buena señal
+grande guiri multitud
+encantaria abrazarla amigaa ahora decirle bien
+dejas poquito contenta gracias
+bien parcial solo faltan
+grande lucho vamo arriba enorme legado dejan futbol uruguayo gracias
+avisaron dia aca creo bueno tenerlo jjijij
+hoy dia perfecto caminando calle mientras ofreces caramelos niños chicos
+buen dia soleee llegue temprano trabajo semana asi ta hago esfuerzo
+interesante iniciativa ahora podemos hacerlo aqui twitter
+demorados proceso llegaran preocupen
+armar buen equipo espectacular propuesta cuenta proximas actualizaciones
+necesito tortas fritas suegraaa
+amo saber segundo homenaje infancia feliz
+buen dia papa amo
+juro pienso glenn sigue vivo aquella vez abraham bien
+feliz cumple hermoso dia dias vida
+gusta sacarle sonrisa siempre saca solo lagrimas
+pelada estudios dicen hace alto fuerte seguro joven
+vos cuidate
+nno perdon mejor dormi hacer bien comete bananita
+mejores valemos
+felicitaciones necesitaba
+bien vos ando ganas dulce
+empezo llover puse cantar cancion
+solo falta siga argentina sigue
+cine iran mejores mundo
+hoy entro poquito tarde trabajar
+voy espoliar ahr unico voy decir bonita divertida mensaje
+verdad encanto placer presente ayudar
+falta cumple cami extraño
+lindo mundo profe aue lindo nostalgias
+grupo perfecto chicas ser ibfs grupales
+lindo agarrarle auto permiso salir andar
+aparte siguen personas importantes
+niña feliz cumple pases lindo
+segundos igualmente
+diciembre primer sesion luego enero necesito hacer pleno
+ahhhh genial esytoy viajeeeeee beso suerte
+voy extrañar aquellas charlas infinitas
+hoy luna hermosa
+hola nena tiempo cuento feliz puedo hoy
+desperte medio mimoso vos duermo salis cabeza
+quieren suba links videos motivacionales levantara animo examenes
+pippi conte nuevo favorito pendejo
+permanente apoyo programa
+buenooo feliz cumple querida zombies usted
+toy san papa vine ver amiga recien tamos almorzando tqm veo luego
+parte parcial fenix suerte clasifiquen sudamericana
+luego chicos podrian dar clases robotica ños grandes
+uruguayos amables nadie intentado echarme auto encima ceda paso contrario ceden problema
+sorpresas emocionan
+fracaso condimento sabor exito hermoso comienzo
+determinar temprano hoy gran dia lee
+grande preciosa bien logrado
+tan fuerte nadie pueda herirte tan noble nadie pueda ofenderte tan original nadie pueda imitarte
+queres saber tiempo segui tipo piola buena onda
+lindo buen dia
+pone foto seguro recontra buena
+lindo dicho
+pronto subiremos convocatoria lectores formen parte preguntar laurita
+trabajo increible esperamos reciba apoyo esperamos sorprenderla
+perdi directo
+piensa grande hechos creceran piensa puedes podras mental
+sigo leo hermoso descanso cuida gracias
+feliz lloviendo
+argentinos lindos
+fuerzas nena lugar maravilloso vos sola momento acompañarte
+when sos especial despues hagamos skype
+noche soñando caballos hermoso
+ganas salir caminar quiero verlas extraño ajajjajajaja
+pepi encanto sonora fuegos esperemos volver pronto abrazo grande gracias
+necesitas personas ser feliz tan solo personas reales aprecian
+quiero mariano regalo
+nuevamente pensamos distinto vez solidarias benefician van mano contrarias
+gracias gil quieroo
+emmm feliz
+arriba entonces perdido buscas salir vas ver
+descanses papa corazon siempre lindo verte
+prado gente necesito
+pasando tarde hermosa mercedes mirando ciudad alto
+sigue siendo laico preocupes
+dicen escribio grande quiero ser vos
+ame carlos fuerte fuerte moto
+buena pinta buen vinito
+gustarian edits asi tratare aprender hacen aprender tecnicas edicion queen sel
+buen dia papa hermoso lindo domingo
+crees exito obtendras confia buenas lluviosas noches byeee
+buena peli voy mirar
+flaco contento cuanto medis vos papa descalzo
+descubrieron bot quieran meter avisenme ayudo
+hola bonita gustaria conocerte saber
+hace dos minutos vos bailarin hacer aguadance felicitaciones segui asi
+escucharle voz dormir mejor
+quimica aprobado menos suerte
+perfecto gracias dar aviso consultar equipo tecnologia
+encanta reality espectacular
+hola comparti video grax decir sino orgulloso admitas contento saludame
+quiero empezar curso dios emocionada
+hoy luna hermosa plena
+preferidos
+pasaste happy felicitaciones amo
+descanses lindo programa hoy
+abrazo poema escrito piel
+ingenio yorugua divierto
+hace feliz ayudar caelikers conozca
+viejitas mejor apostas
+graciaas vos merecias lindo tener compañera vos
+amo boluda sabes bien metida haces reir
+extrañaba ezee perdido
+hola sol disculpas recibiste pedido siempre dudas disponible online
+gusta vino tinto hace años respaldo proyecto modo agradecimiento mande vino uruguayo
+conozco lugar gico
+nota queres igual
+hoy primera vez vida trabajo horas tener copado tan copado
+feliz botija bienvenida
+rodeados belleza solo saber mirar
+mejores momentos foto
+abrazo viejo decile esperanza ver pelear adelante
+dejaron mensaje diciendome suerte
+meeee encanta saber mañana mañana casa sola jee
+esperare momento primer capitulo dije mateo indicado anita
+tenerme ejemplo seguir sos dulce
+encantada web ver coordinamos nota
+legal alegro gorda perro tenes ver nombre alegro
+solo dia foda sabelo tamo ahi gracias
+necesitaba juntada asi compañeros pasar lindo rato
+gracias verdad sos mejor
+buso wanderers enamorada
+hola lenay porfiii mandame saludame proximo video mandame besote enorme agradeceria
+dias publicare voten quiero muchoooo
+saber pide gente cumplir sueños avanzar ve
+hoy lanzo autos autonomos san pasito cerca tremendo cc
+obvio quieran
+dije mejor serie igual sale eneero
+mejores libros mejores lectores
+comportamiento casada ahi deos quiero
+piensas muchisimas abrahamers uruguayas viajan verte brillar ama
+saber grandes exitosos pasan grandes pruebas motiva
+sobrina años anda copada
+horas depues recien analizo suerte entendi jajaaa
+siempre querido fan asi
+descanse sueñe bonito hermosa luna
+vengan gurices juntabas hace mil año digan volver juntarse lindo
+piques primicias
+hermosa edad espero disfrutando traiga fotos
+tremendo cuerpo nena
+increibles fotos lindas verdad
+mejores personas conocido vida
+separan km quieres jajajajajajajajajajajajajaja juro chistos
+gracias buena onda implicados
+futbol hermoso cdo juntan talentos
+paz dios vida bello dia
