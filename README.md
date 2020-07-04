@@ -57,7 +57,7 @@ Execute the notebooks on this order:
 Jorge Alfredo Sanchez Lamas \
 Gabriela Jimenez \
 Francisco Gonzalez \
-Cesar Ramon \
+Cesar Iban Roman Chitala \
 Alfredo Bello 
 
 ## Acknowledgments
